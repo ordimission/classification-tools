@@ -2,7 +2,37 @@
     "$RECYCLE.BIN": {
         "S-1-12-1-1908968637-1152888789-3542856331-2717087518": {}
     },
+    "APP_DATA": {
+        "ACCESSORIES": {},
+        "EDUCATION": {},
+        "GAMES": {},
+        "GRAPHICS": {},
+        "INTERNET": {},
+        "OFFICE": {},
+        "PROGRAMMING": {},
+        "SCIENCE": {},
+        "SOUND_VIDEO": {},
+        "SYSTEM_TOOLS": {},
+        "UTILITIES": {
+            "CALIBRE": {}
+        }
+    },
     "ARCHIVES": {
+        "APP_DATA": {
+            "ACCESSORIES": {},
+            "EDUCATION": {},
+            "GAMES": {},
+            "GRAPHICS": {},
+            "INTERNET": {},
+            "OFFICE": {},
+            "PROGRAMMING": {},
+            "SCIENCE": {},
+            "SOUND_VIDEO": {},
+            "SYSTEM_TOOLS": {},
+            "UTILITIES": {
+                "CALIBRE": {}
+            }
+        },
         "MASTERS": {
             "AUDIOS": {},
             "BOOKS": {},
@@ -28,23 +58,18 @@
             "UTILITIES": {}
         }
     },
-    "DATA": {
-        "ACCESSORIES": {},
-        "EDUCATION": {},
-        "GAMES": {},
-        "GRAPHICS": {},
-        "INTERNET": {},
-        "OFFICE": {},
-        "PROGRAMMING": {},
-        "SCIENCE": {},
-        "SOUND_VIDEO": {},
-        "SYSTEM_TOOLS": {},
-        "UTILITIES": {
-            "CALIBRE": {}
-        }
-    },
     "DOCUMENTS": {
-        "ASSOCIATIONS": {},
+        "ASSOCIATIONS": {
+            "ACCEP": {},
+            "AEE": {},
+            "AIG": {},
+            "AVF": {},
+            "BSD": {},
+            "CFBS": {},
+            "EPEMN": {},
+            "FLC": {},
+            "ORDIMISSION": {}
+        },
         "FAMILY": {},
         "PERSONAL": {},
         "PROFESSIONAL": {}
@@ -77,12 +102,14 @@
                     "ENGLISH": {}
                 }
             },
-            "AVF": {}
+            "AVF": {},
+            "GRN": {},
+            "THIRDMILL": {}
         },
         "BOOKS": {
             "S5": {},
             "THIRDMILL": {
-                "LIVRES": {}
+                "FR": {}
             }
         },
         "SOFTWARE": {
@@ -99,9 +126,14 @@
             "UTILITIES": {}
         },
         "VIDEOS": {
+            "AEE": {},
+            "AOW": {
+                "SFC": {}
+            },
             "AVF": {
                 "CAMEROUN32": {}
             },
+            "GRN": {},
             "THIRDMILL": {
                 "FR": {}
             }
