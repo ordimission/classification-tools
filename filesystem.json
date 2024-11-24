@@ -2,21 +2,19 @@
     "$RECYCLE.BIN": {
         "S-1-12-1-1908968637-1152888789-3542856331-2717087518": {}
     },
-    "APPLICATIONS": {
-        "ACCESSORIES": {},
-        "EDUCATION": {},
-        "GAMES": {},
-        "GRAPHICS": {},
-        "INTERNET": {},
-        "OFFICE": {},
-        "PROGRAMMING": {},
-        "SCIENCE": {},
-        "SOUND_AND_VIDEO": {},
-        "SYSTEM_TOOLS": {},
-        "UTILITIES": {}
-    },
     "ARCHIVES": {
-        "APPLICATIONS": {
+        "MASTERS": {
+            "AUDIOS": {},
+            "BOOKS": {},
+            "SOFTWARE": {},
+            "VIDEOS": {}
+        },
+        "PRODUCTS": {
+            "AUDIOS": {},
+            "BOOKS": {},
+            "VIDEOS": {}
+        },
+        "SOFTWARE": {
             "ACCESSORIES": {},
             "EDUCATION": {},
             "GAMES": {},
@@ -28,18 +26,6 @@
             "SOUND_VIDEO": {},
             "SYSTEM_TOOLS": {},
             "UTILITIES": {}
-        },
-        "MASTERS": {
-            "AUDIOS": {},
-            "BOOKS": {},
-            "SOFTWARE": {},
-            "VIDEOS": {}
-        },
-        "PRODUCTS": {
-            "AUDIOS": {},
-            "BOOKS": {},
-            "SOFTWARE": {},
-            "VIDEOS": {}
         }
     },
     "DOCUMENTS": {
@@ -48,6 +34,7 @@
         "PERSONAL": {},
         "PROFESSIONAL": {}
     },
+    "LIBRARY": {},
     "MASTERS": {
         "AUDIOS": {
             "AEE": {},
@@ -92,5 +79,18 @@
                 "FR": {}
             }
         }
+    },
+    "SOFTWARE": {
+        "ACCESSORIES": {},
+        "EDUCATION": {},
+        "GAMES": {},
+        "GRAPHICS": {},
+        "INTERNET": {},
+        "OFFICE": {},
+        "PROGRAMMING": {},
+        "SCIENCE": {},
+        "SOUND_AND_VIDEO": {},
+        "SYSTEM_TOOLS": {},
+        "UTILITIES": {}
     }
 }
