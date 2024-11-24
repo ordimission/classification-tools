@@ -34,7 +34,6 @@
         "PERSONAL": {},
         "PROFESSIONAL": {}
     },
-    "LIBRARY": {},
     "MASTERS": {
         "AUDIOS": {
             "AEE": {},
@@ -68,7 +67,7 @@
         "BOOKS": {
             "S5": {},
             "THIRDMILL": {
-                "LIVRES": {}
+                "FR": {}
             }
         },
         "VIDEOS": {
