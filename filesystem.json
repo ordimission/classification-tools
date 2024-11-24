@@ -1,0 +1,67 @@
+{
+    "$RECYCLE.BIN": {
+        "S-1-12-1-1908968637-1152888789-3542856331-2717087518": {}
+    },
+    "APPLICATIONS": {
+        "COMMUNICATION": {},
+        "EDUCATION": {},
+        "INTERNET": {}
+    },
+    "ARCHIVES": {
+        "APPLICATIONS": {},
+        "MASTERS": {
+            "CODE": {}
+        },
+        "PRODUCTS": {}
+    },
+    "DOCUMENTS": {
+        "ASSOCIATIONS": {},
+        "FAMILY": {},
+        "PERSONNAL": {},
+        "PROFESSIONAL": {}
+    },
+    "MASTERS": {
+        "AUDIOS": {
+            "AEE": {},
+            "AVF": {}
+        },
+        "BOOKS": {},
+        "CODE": {
+            "ASSOCIATIONS": {
+                "ORDIMISSION": {},
+                "VP": {}
+            },
+            "PERSONAL": {},
+            "PROFESSIONAL": {}
+        },
+        "VIDEOS": {}
+    },
+    "PRODUCTS": {
+        "AUDIOS": {
+            "AEE": {},
+            "AOW": {
+                "SFC": {
+                    "ARABIC": {},
+                    "BENGALI": {},
+                    "CHINESE": {},
+                    "ENGLISH": {}
+                }
+            },
+            "AVF": {}
+        },
+        "BOOKS": {
+            "S5": {},
+            "THIRDMILL": {
+                "LIVRES": {}
+            }
+        },
+        "VIDEOS": {
+            "AVF": {
+                "CAMEROUN32": {}
+            },
+            "THIRDMILL": {
+                "FR": {}
+            }
+        }
+    }
+}

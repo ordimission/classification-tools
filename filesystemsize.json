@@ -1,0 +1,1042 @@
+{
+    ".git": {
+        "hooks": {},
+        "info": {},
+        "objects": {
+            "info": {
+                "size": 0,
+                "file_count": 0
+            },
+            "pack": {
+                "size": 0,
+                "file_count": 0
+            }
+        },
+        "refs": {
+            "heads": {
+                "size": 0,
+                "file_count": 0
+            },
+            "tags": {
+                "size": 0,
+                "file_count": 0
+            }
+        }
+    },
+    "accueil": {},
+    "atteindre": {},
+    "batch": {
+        "old": {}
+    },
+    "bn": {},
+    "charte": {
+        "catalogue": {},
+        "fichiers": {},
+        "icones": {},
+        "outils": {}
+    },
+    "charte_proj": {
+        "fichiers": {}
+    },
+    "commandes": {},
+    "data-audiovie": {},
+    "data-bible": {
+        "alim": {},
+        "bid": {},
+        "doc": {}
+    },
+    "data-commandes": {},
+    "data-compta": {
+        "essais": {},
+        "pdf": {
+            "fpdf": {
+                "size": 10327194,
+                "file_count": 146
+            }
+        }
+    },
+    "data-configs": {},
+    "data-divers": {},
+    "data-enfants": {},
+    "data-FCBH": {},
+    "data-FileExplorer": {
+        "logs": {},
+        "obsolete": {},
+        "obsolète": {},
+        "php": {}
+    },
+    "data-films": {},
+    "data-grid": {},
+    "data-iframe": {},
+    "data-images": {},
+    "data-inscriptions": {},
+    "data-joshua": {
+        "csv2019": {
+            "jp-access": {
+                "size": 87732224,
+                "file_count": 2
+            }
+        },
+        "csv2021": {}
+    },
+    "data-json": {
+        "php": {}
+    },
+    "data-langues": {
+        "donnees-originales": {}
+    },
+    "data-listes": {
+        "obsolete": {},
+        "travail": {}
+    },
+    "data-logs": {},
+    "data-mono": {
+        "batch": {},
+        "batchpb": {}
+    },
+    "data-pays": {
+        "bak": {},
+        "obsolète": {}
+    },
+    "data-position": {
+        "data": {},
+        "icones": {},
+        "matos": {},
+        "old TXT": {},
+        "secu": {}
+    },
+    "data-projets": {},
+    "data-roumagnan": {},
+    "data-scripts": {},
+    "data-telegram": {
+        "obsolete": {},
+        "passport": {},
+        "php": {
+            "crontab": {
+                "size": 6267,
+                "file_count": 4
+            },
+            "fireScripts": {
+                "size": 10749,
+                "file_count": 2
+            }
+        },
+        "php_mdan": {
+            "crontab": {
+                "size": 6338,
+                "file_count": 4
+            },
+            "fireScripts": {
+                "size": 10749,
+                "file_count": 2
+            }
+        },
+        "Remote Bot": {}
+    },
+    "data-thirdmill": {},
+    "data-txt": {
+        "secu": {}
+    },
+    "data-vivant": {},
+    "demo": {},
+    "dist": {
+        "about": {},
+        "programs": {},
+        "_nuxt": {}
+    },
+    "donnees": {
+        "obsolete": {}
+    },
+    "donnees-js": {
+        "obsolete": {}
+    },
+    "donnees-php": {},
+    "dons": {},
+    "echos": {},
+    "entree": {},
+    "grid": {},
+    "grn": {
+        "histoire-grn_fichiers": {}
+    },
+    "htaccess": {
+        "data-divers": {},
+        "SIPSI": {}
+    },
+    "images": {
+        "5fish": {},
+        "accueil": {},
+        "Bible icons 048png v1": {},
+        "Bible icons 256png v1": {},
+        "catalogue": {},
+        "coloriage": {
+            "gn": {
+                "size": 2462638,
+                "file_count": 41
+            },
+            "lll1": {
+                "size": 519067,
+                "file_count": 25
+            },
+            "lll2": {
+                "size": 482028,
+                "file_count": 25
+            },
+            "lll3": {
+                "size": 501323,
+                "file_count": 25
+            },
+            "lll4": {
+                "size": 432050,
+                "file_count": 25
+            },
+            "lll5": {
+                "size": 473463,
+                "file_count": 25
+            },
+            "lll6": {
+                "size": 446491,
+                "file_count": 25
+            },
+            "lll7": {
+                "size": 503252,
+                "file_count": 25
+            },
+            "lll8": {
+                "size": 511946,
+                "file_count": 25
+            },
+            "tlc": {
+                "size": 2534341,
+                "file_count": 121
+            }
+        },
+        "etiquettes": {},
+        "GRN-AGS-presentation": {},
+        "GRN-thumbs": {
+            "gn": {
+                "size": 292619,
+                "file_count": 40
+            },
+            "lll1": {
+                "size": 201329,
+                "file_count": 27
+            },
+            "lll2": {
+                "size": 191173,
+                "file_count": 27
+            },
+            "lll3": {
+                "size": 209150,
+                "file_count": 27
+            },
+            "lll4": {
+                "size": 193676,
+                "file_count": 27
+            },
+            "lll5": {
+                "size": 204624,
+                "file_count": 27
+            },
+            "lll6": {
+                "size": 183979,
+                "file_count": 27
+            },
+            "lll7": {
+                "size": 200772,
+                "file_count": 27
+            },
+            "lll8": {
+                "size": 218047,
+                "file_count": 27
+            },
+            "tlc": {
+                "size": 894242,
+                "file_count": 120
+            }
+        },
+        "GRN800x600": {
+            "gn": {
+                "size": 2504315,
+                "file_count": 51
+            },
+            "lll1": {
+                "size": 1471745,
+                "file_count": 24
+            },
+            "lll2": {
+                "size": 1363828,
+                "file_count": 24
+            },
+            "lll3": {
+                "size": 1416567,
+                "file_count": 24
+            },
+            "lll4": {
+                "size": 1260211,
+                "file_count": 24
+            },
+            "lll5": {
+                "size": 1433531,
+                "file_count": 24
+            },
+            "lll6": {
+                "size": 1251391,
+                "file_count": 24
+            },
+            "lll7": {
+                "size": 1390060,
+                "file_count": 24
+            },
+            "lll8": {
+                "size": 1550936,
+                "file_count": 24
+            },
+            "tlc": {
+                "size": 6881656,
+                "file_count": 121
+            }
+        },
+        "logo": {},
+        "partnerships": {},
+        "photos": {},
+        "position": {},
+        "sweet": {
+            "01": {
+                "size": 59325150,
+                "file_count": 374
+            },
+            "02": {
+                "size": 35629307,
+                "file_count": 241
+            },
+            "03": {
+                "size": 1194035,
+                "file_count": 7
+            },
+            "04": {
+                "size": 3480353,
+                "file_count": 23
+            },
+            "05": {
+                "size": 4980482,
+                "file_count": 33
+            },
+            "06": {
+                "size": 15391860,
+                "file_count": 100
+            },
+            "07": {
+                "size": 11629294,
+                "file_count": 70
+            },
+            "08": {
+                "size": 5347009,
+                "file_count": 34
+            },
+            "09": {
+                "size": 18587005,
+                "file_count": 115
+            },
+            "10": {
+                "size": 9231924,
+                "file_count": 59
+            },
+            "11": {
+                "size": 16436074,
+                "file_count": 103
+            },
+            "12": {
+                "size": 14168907,
+                "file_count": 90
+            },
+            "13": {
+                "size": 3519290,
+                "file_count": 22
+            },
+            "14": {
+                "size": 4744873,
+                "file_count": 29
+            },
+            "15": {
+                "size": 1791826,
+                "file_count": 10
+            },
+            "16": {
+                "size": 1980467,
+                "file_count": 12
+            },
+            "17": {
+                "size": 9609515,
+                "file_count": 59
+            },
+            "18": {
+                "size": 4761427,
+                "file_count": 28
+            },
+            "19": {
+                "size": 1521779,
+                "file_count": 9
+            },
+            "23": {
+                "size": 760476,
+                "file_count": 5
+            },
+            "24": {
+                "size": 1730484,
+                "file_count": 11
+            },
+            "26": {
+                "size": 2181816,
+                "file_count": 12
+            },
+            "27": {
+                "size": 7332795,
+                "file_count": 44
+            },
+            "32": {
+                "size": 2307848,
+                "file_count": 14
+            },
+            "40": {
+                "size": 43344908,
+                "file_count": 287
+            },
+            "41": {
+                "size": 44608906,
+                "file_count": 288
+            },
+            "42": {
+                "size": 58451130,
+                "file_count": 383
+            },
+            "43": {
+                "size": 19804863,
+                "file_count": 125
+            },
+            "44": {
+                "size": 58608901,
+                "file_count": 391
+            },
+            "45": {
+                "size": 305629,
+                "file_count": 2
+            },
+            "55": {
+                "size": 1222670,
+                "file_count": 8
+            },
+            "56": {
+                "size": 162786,
+                "file_count": 1
+            },
+            "59": {
+                "size": 877432,
+                "file_count": 6
+            },
+            "62": {
+                "size": 740170,
+                "file_count": 5
+            },
+            "66": {
+                "size": 1926632,
+                "file_count": 12
+            }
+        },
+        "sweet-120px": {},
+        "sweet-avf": {},
+        "sweet-complements": {
+            "GN": {
+                "size": 35142599,
+                "file_count": 7
+            },
+            "LLL": {
+                "size": 12120558,
+                "file_count": 9
+            },
+            "MJF": {
+                "size": 19122207,
+                "file_count": 12
+            }
+        }
+    },
+    "imageSlider": {},
+    "jwplayer": {},
+    "langues": {},
+    "lc": {},
+    "librairies": {
+        "acai-v3": {
+            "acai-font": {
+                "size": 1534655,
+                "file_count": 5
+            },
+            "assets": {
+                "size": 671254,
+                "file_count": 14
+            },
+            "css": {
+                "size": 6994,
+                "file_count": 3
+            },
+            "js": {
+                "size": 1802,
+                "file_count": 1
+            }
+        },
+        "application": {
+            "assets": {
+                "size": 114725,
+                "file_count": 3
+            },
+            "css": {
+                "size": 763,
+                "file_count": 1
+            },
+            "js": {
+                "size": 0,
+                "file_count": 1
+            }
+        },
+        "areyousure-1.9.0": {
+            "js": {
+                "size": 5555,
+                "file_count": 1
+            }
+        },
+        "autocomplete": {
+            "js": {
+                "size": 10738,
+                "file_count": 1
+            }
+        },
+        "bootstrap-3.3.5": {
+            "css": {
+                "size": 880499,
+                "file_count": 7
+            },
+            "fonts": {
+                "size": 215721,
+                "file_count": 5
+            },
+            "js": {
+                "size": 106190,
+                "file_count": 3
+            }
+        },
+        "bootstrap-accessibility-3.1.1": {
+            "css": {
+                "size": 1594,
+                "file_count": 2
+            },
+            "js": {
+                "size": 54646,
+                "file_count": 4
+            }
+        },
+        "calculator-2.0.1": {
+            "assets": {
+                "size": 800,
+                "file_count": 1
+            },
+            "css": {
+                "size": 6352,
+                "file_count": 2
+            },
+            "js": {
+                "size": 126556,
+                "file_count": 23
+            }
+        },
+        "colorpicker-2013-04-11": {
+            "css": {
+                "size": 2404,
+                "file_count": 1
+            },
+            "img": {
+                "size": 15060,
+                "file_count": 3
+            },
+            "js": {
+                "size": 13366,
+                "file_count": 1
+            },
+            "less": {
+                "size": 2049,
+                "file_count": 1
+            }
+        },
+        "datatables-1.10.8": {
+            "css": {
+                "size": 84531,
+                "file_count": 9
+            },
+            "images": {
+                "size": 813,
+                "file_count": 5
+            },
+            "js": {
+                "size": 541676,
+                "file_count": 8
+            },
+            "plugins": {
+                "size": 648179,
+                "file_count": 124
+            }
+        },
+        "datepicker": {
+            "css": {
+                "size": 64285,
+                "file_count": 2
+            },
+            "js": {
+                "size": 114263,
+                "file_count": 64
+            }
+        },
+        "descartes": {
+            "descartes": {
+                "size": 4939131,
+                "file_count": 262
+            },
+            "exemples": {
+                "size": 56676,
+                "file_count": 21
+            },
+            "openLayers_2_13_1": {
+                "size": 770256,
+                "file_count": 1
+            },
+            "proj4js": {
+                "size": 198558,
+                "file_count": 254
+            }
+        },
+        "dp.SyntaxHighlighter": {
+            "demo": {
+                "size": 2638,
+                "file_count": 1
+            },
+            "Scripts": {
+                "size": 37311,
+                "file_count": 14
+            },
+            "Styles": {
+                "size": 3993,
+                "file_count": 1
+            },
+            "Uncompressed": {
+                "size": 49229,
+                "file_count": 13
+            }
+        },
+        "dragtable-3.0": {
+            "css": {
+                "size": 828,
+                "file_count": 1
+            },
+            "js": {
+                "size": 22024,
+                "file_count": 1
+            }
+        },
+        "font-awesome-4.4.0": {
+            "css": {
+                "size": 59029,
+                "file_count": 2
+            },
+            "fonts": {
+                "size": 815068,
+                "file_count": 6
+            },
+            "less": {
+                "size": 67567,
+                "file_count": 13
+            },
+            "scss": {
+                "size": 68374,
+                "file_count": 13
+            }
+        },
+        "font-awesome-badge-1.0.0": {
+            "css": {
+                "size": 5536,
+                "file_count": 1
+            },
+            "fonts": {
+                "size": 40352,
+                "file_count": 4
+            }
+        },
+        "jquery-1.11.3": {
+            "js": {
+                "size": 380351,
+                "file_count": 2
+            }
+        },
+        "jquery-ui-1.11.3": {
+            "css": {
+                "size": 129579,
+                "file_count": 6
+            },
+            "images": {
+                "size": 35041,
+                "file_count": 14
+            },
+            "js": {
+                "size": 711023,
+                "file_count": 2
+            }
+        },
+        "reveal": {
+            ".github": {
+                "size": 455,
+                "file_count": 2
+            },
+            "css": {
+                "size": 79559,
+                "file_count": 20
+            },
+            "dist": {
+                "size": 2289175,
+                "file_count": 34
+            },
+            "examples": {
+                "size": 959244,
+                "file_count": 17
+            },
+            "js": {
+                "size": 214391,
+                "file_count": 25
+            },
+            "plugin": {
+                "size": 5874432,
+                "file_count": 111
+            },
+            "test": {
+                "size": 75550,
+                "file_count": 18
+            }
+        },
+        "reveal-4.0.2": {
+            ".github": {
+                "size": 449,
+                "file_count": 2
+            },
+            "css": {
+                "size": 76924,
+                "file_count": 20
+            },
+            "dist": {
+                "size": 2273145,
+                "file_count": 34
+            },
+            "examples": {
+                "size": 486648,
+                "file_count": 14
+            },
+            "js": {
+                "size": 220151,
+                "file_count": 26
+            },
+            "plugin": {
+                "size": 7716321,
+                "file_count": 117
+            },
+            "test": {
+                "size": 75276,
+                "file_count": 18
+            },
+            "zip": {
+                "size": 3336238,
+                "file_count": 3
+            }
+        },
+        "sb-admin-2-1.0.7": {
+            "css": {
+                "size": 9016,
+                "file_count": 2
+            },
+            "js": {
+                "size": 1181,
+                "file_count": 1
+            }
+        },
+        "tablenav-0.1.0": {
+            "js": {
+                "size": 3066,
+                "file_count": 2
+            }
+        },
+        "telegram": {}
+    },
+    "liens": {},
+    "lightstream": {
+        "www": {
+            "css": {
+                "size": 262124,
+                "file_count": 4
+            },
+            "doc": {
+                "size": 55210,
+                "file_count": 11
+            },
+            "img": {
+                "size": 4245161,
+                "file_count": 48
+            },
+            "js": {
+                "size": 468916,
+                "file_count": 31
+            }
+        }
+    },
+    "linguistique": {},
+    "lll": {},
+    "mailbox": {
+        "1017470788410654315469759518541": {},
+        "1017935189352977289426536086225": {},
+        "1046673900739110768987971147517": {},
+        "1093405718947442715799692348934": {},
+        "1100364252171419008929809596767": {},
+        "1118251203423364593130304026085": {},
+        "1170096982621656142220055304074": {},
+        "124433835114847340377934525637939913262084482369309391450370601": {},
+        "124476194499692838732702210300": {},
+        "1253317421526266480568135792353": {},
+        "130202299793154031219977748949": {},
+        "137046268784159659342807983989": {},
+        "137938062637662019759439119590": {},
+        "199284127717082351127466969640": {},
+        "229932940962446478454720296747": {},
+        "312267904745976084492988014101": {},
+        "322234210569545633550478775115": {},
+        "329594624684697788720585530324": {},
+        "341274712098257819319869380966": {},
+        "418179096991743149316678897603": {},
+        "427674789800218798947723639965": {},
+        "465509413833537198405786823802": {},
+        "466468727019921155549113424493": {},
+        "484857936022620192973807056911": {},
+        "496643133373956661024947142750": {},
+        "496887745525370630822269973041": {},
+        "511380665275454990645861718558": {},
+        "522494190373719104836949566129": {},
+        "534636553297859820383732844238": {},
+        "53503396223633068328473715081": {},
+        "544752646324991290712083035890": {},
+        "594178650239299331557754612801": {},
+        "596131483537033514121902072402": {},
+        "621463425938603679582374634253": {},
+        "683534721320116092840400169502": {},
+        "699737876355673742147576734116": {},
+        "736041730186276904212300947222": {},
+        "736782901753743547334213710061": {},
+        "751949881259953425830369853714": {},
+        "796317570573435718098852089296": {},
+        "804951225003642439450863784133": {},
+        "808839342856842752729958402890": {},
+        "86459757210424748599187555284": {},
+        "878370600809994258896128554325": {},
+        "878772704402391448721573596004": {},
+        "880434604049450478983677107964": {},
+        "890202361874824050591001113773": {},
+        "986257238740365319618707166377": {},
+        "987643646486762486299433724303": {},
+        "990292268831142956229983896627": {},
+        "998184331451394379261826512618": {},
+        "presence": {}
+    },
+    "materiel": {
+        "audio-library": {},
+        "bible-solaire": {
+            "obsolete": {
+                "size": 194560,
+                "file_count": 2
+            }
+        },
+        "cd-data": {},
+        "enregistrement": {},
+        "kit": {},
+        "kit-bluetooth": {},
+        "lecteurs": {},
+        "lightstream": {},
+        "picoprojecteurs": {}
+    },
+    "membres": {},
+    "notices": {},
+    "nouvelles": {},
+    "obsolete": {
+        "data-crypto": {}
+    },
+    "outils": {},
+    "partenariats": {},
+    "pays": {
+        "grid": {}
+    },
+    "peuples": {},
+    "photos": {
+        "oswald": {},
+        "pays": {}
+    },
+    "procedures": {
+        "anglais": {},
+        "statuts": {}
+    },
+    "promotion": {},
+    "prospectus": {},
+    "qualite": {
+        "old": {}
+    },
+    "recordistes": {},
+    "requetes": {
+        "obsolete": {}
+    },
+    "reveal-docs": {
+        "assets": {},
+        "documentation": {},
+        "images": {
+            "AVF": {
+                "size": 71268720,
+                "file_count": 29
+            },
+            "missioncamp2024": {
+                "size": 18313055,
+                "file_count": 23
+            },
+            "reforme": {
+                "size": 2266926,
+                "file_count": 20
+            },
+            "vaudois": {
+                "size": 7135038,
+                "file_count": 74
+            }
+        },
+        "obsolete": {
+            "ImageSlider": {
+                "size": 8517,
+                "file_count": 4
+            }
+        }
+    },
+    "scripts": {
+        "WOL": {
+            "femme-au-puits.files": {
+                "size": 687,
+                "file_count": 1
+            },
+            "pardon.files": {
+                "size": 687,
+                "file_count": 1
+            }
+        }
+    },
+    "sites-web": {
+        "ethnologue": {
+            "BF_fichiers": {
+                "size": 58114,
+                "file_count": 8
+            },
+            "mos_fichiers": {
+                "size": 58114,
+                "file_count": 8
+            }
+        },
+        "joshua": {
+            "fichiers": {
+                "size": 236737,
+                "file_count": 47
+            }
+        },
+        "joshua2": {
+            "burkina_files": {
+                "size": 2115038,
+                "file_count": 103
+            },
+            "moore_files": {
+                "size": 1759454,
+                "file_count": 52
+            },
+            "mossi_files": {
+                "size": 928868,
+                "file_count": 11
+            }
+        },
+        "OW": {
+            "burk_fichiers": {
+                "size": 60954,
+                "file_count": 20
+            }
+        },
+        "siteGRN": {
+            "C29730_fichiers": {
+                "size": 22079,
+                "file_count": 3
+            },
+            "C74710_fichiers": {
+                "size": 28319,
+                "file_count": 4
+            },
+            "mos_fichiers": {
+                "size": 28319,
+                "file_count": 4
+            },
+            "script": {
+                "size": 93684,
+                "file_count": 6
+            },
+            "UV_fichiers": {
+                "size": 41311,
+                "file_count": 5
+            }
+        }
+    },
+    "tables": {
+        "bid": {},
+        "certificats": {},
+        "doc": {
+            "exemples": {
+                "size": 1719,
+                "file_count": 2
+            }
+        },
+        "images": {
+            "botpic": {
+                "size": 3208331,
+                "file_count": 27
+            },
+            "descartes": {
+                "size": 23310,
+                "file_count": 34
+            },
+            "icones": {
+                "size": 496944,
+                "file_count": 4
+            },
+            "messagerie": {
+                "size": 16244,
+                "file_count": 20
+            }
+        },
+        "matos": {},
+        "php": {
+            "secu": {
+                "size": 143396,
+                "file_count": 12
+            }
+        },
+        "_gsdata_": {
+            "_saved_": {
+                "size": 243949,
+                "file_count": 22
+            }
+        }
+    },
+    "textes": {
+        "anglais": {},
+        "bid": {},
+        "CNEF": {},
+        "langues": {}
+    },
+    "tour": {},
+    "WOL": {}
+}
