@@ -3,21 +3,49 @@
         "S-1-12-1-1908968637-1152888789-3542856331-2717087518": {}
     },
     "APPLICATIONS": {
-        "COMMUNICATION": {},
+        "ACCESSORIES": {},
         "EDUCATION": {},
-        "INTERNET": {}
+        "GAMES": {},
+        "GRAPHICS": {},
+        "INTERNET": {},
+        "OFFICE": {},
+        "PROGRAMMING": {},
+        "SCIENCE": {},
+        "SOUND_AND_VIDEO": {},
+        "SYSTEM_TOOLS": {},
+        "UTILITIES": {}
     },
     "ARCHIVES": {
-        "APPLICATIONS": {},
-        "MASTERS": {
-            "CODE": {}
+        "APPLICATIONS": {
+            "ACCESSORIES": {},
+            "EDUCATION": {},
+            "GAMES": {},
+            "GRAPHICS": {},
+            "INTERNET": {},
+            "OFFICE": {},
+            "PROGRAMMING": {},
+            "SCIENCE": {},
+            "SOUND_VIDEO": {},
+            "SYSTEM_TOOLS": {},
+            "UTILITIES": {}
         },
-        "PRODUCTS": {}
+        "MASTERS": {
+            "AUDIOS": {},
+            "BOOKS": {},
+            "SOFTWARE": {},
+            "VIDEOS": {}
+        },
+        "PRODUCTS": {
+            "AUDIOS": {},
+            "BOOKS": {},
+            "SOFTWARE": {},
+            "VIDEOS": {}
+        }
     },
     "DOCUMENTS": {
         "ASSOCIATIONS": {},
         "FAMILY": {},
-        "PERSONNAL": {},
+        "PERSONAL": {},
         "PROFESSIONAL": {}
     },
     "MASTERS": {
@@ -26,8 +54,9 @@
             "AVF": {}
         },
         "BOOKS": {},
-        "CODE": {
+        "SOFTWARE": {
             "ASSOCIATIONS": {
+                "AVF": {},
                 "ORDIMISSION": {},
                 "VP": {}
             },
