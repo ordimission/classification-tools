@@ -67,8 +67,21 @@
         "BOOKS": {
             "S5": {},
             "THIRDMILL": {
-                "FR": {}
+                "LIVRES": {}
             }
+        },
+        "SOFTWARE": {
+            "ACCESSORIES": {},
+            "EDUCATION": {},
+            "GAMES": {},
+            "GRAPHICS": {},
+            "INTERNET": {},
+            "OFFICE": {},
+            "PROGRAMMING": {},
+            "SCIENCE": {},
+            "SOUND_VIDEO": {},
+            "SYSTEM_TOOLS": {},
+            "UTILITIES": {}
         },
         "VIDEOS": {
             "AVF": {
