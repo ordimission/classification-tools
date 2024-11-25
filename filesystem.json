@@ -17,47 +17,6 @@
             "CALIBRE": {}
         }
     },
-    "ARCHIVES": {
-        "APP_DATA": {
-            "ACCESSORIES": {},
-            "EDUCATION": {},
-            "GAMES": {},
-            "GRAPHICS": {},
-            "INTERNET": {},
-            "OFFICE": {},
-            "PROGRAMMING": {},
-            "SCIENCE": {},
-            "SOUND_VIDEO": {},
-            "SYSTEM_TOOLS": {},
-            "UTILITIES": {
-                "CALIBRE": {}
-            }
-        },
-        "MASTERS": {
-            "AUDIOS": {},
-            "BOOKS": {},
-            "SOFTWARE": {},
-            "VIDEOS": {}
-        },
-        "PRODUCTS": {
-            "AUDIOS": {},
-            "BOOKS": {},
-            "VIDEOS": {}
-        },
-        "SOFTWARE": {
-            "ACCESSORIES": {},
-            "EDUCATION": {},
-            "GAMES": {},
-            "GRAPHICS": {},
-            "INTERNET": {},
-            "OFFICE": {},
-            "PROGRAMMING": {},
-            "SCIENCE": {},
-            "SOUND_VIDEO": {},
-            "SYSTEM_TOOLS": {},
-            "UTILITIES": {}
-        }
-    },
     "DOCUMENTS": {
         "ASSOCIATIONS": {
             "ACCEP": {},
@@ -68,18 +27,19 @@
             "CFBS": {},
             "EPEMN": {},
             "FLC": {},
-            "ORDIMISSION": {}
+            "ORDIMISSION": {},
+            "VP": {}
         },
         "FAMILY": {},
         "PERSONAL": {},
         "PROFESSIONAL": {}
     },
     "MASTERS": {
-        "AUDIOS": {
+        "AUDIO": {
             "AEE": {},
             "AVF": {}
         },
-        "BOOKS": {},
+        "BOOK": {},
         "SOFTWARE": {
             "ASSOCIATIONS": {
                 "AVF": {},
@@ -89,10 +49,10 @@
             "PERSONAL": {},
             "PROFESSIONAL": {}
         },
-        "VIDEOS": {}
+        "VIDEO": {}
     },
     "PRODUCTS": {
-        "AUDIOS": {
+        "AUDIO": {
             "AEE": {},
             "AOW": {
                 "SFC": {
@@ -106,7 +66,7 @@
             "GRN": {},
             "THIRDMILL": {}
         },
-        "BOOKS": {
+        "BOOK": {
             "S5": {},
             "THIRDMILL": {
                 "FR": {}
@@ -125,7 +85,7 @@
             "SYSTEM_TOOLS": {},
             "UTILITIES": {}
         },
-        "VIDEOS": {
+        "VIDEO": {
             "AEE": {},
             "AOW": {
                 "SFC": {}
@@ -151,5 +111,46 @@
         "SOUND_AND_VIDEO": {},
         "SYSTEM_TOOLS": {},
         "UTILITIES": {}
+    },
+    "ZIPS": {
+        "APP_DATA": {
+            "ACCESSORIES": {},
+            "EDUCATION": {},
+            "GAMES": {},
+            "GRAPHICS": {},
+            "INTERNET": {},
+            "OFFICE": {},
+            "PROGRAMMING": {},
+            "SCIENCE": {},
+            "SOUND_VIDEO": {},
+            "SYSTEM_TOOLS": {},
+            "UTILITIES": {
+                "CALIBRE": {}
+            }
+        },
+        "MASTERS": {
+            "AUDIO": {},
+            "BOOK": {},
+            "SOFTWARE": {},
+            "VIDEO": {}
+        },
+        "PRODUCTS": {
+            "AUDIO": {},
+            "BOOK": {},
+            "VIDEO": {}
+        },
+        "SOFTWARE": {
+            "ACCESSORIES": {},
+            "EDUCATION": {},
+            "GAMES": {},
+            "GRAPHICS": {},
+            "INTERNET": {},
+            "OFFICE": {},
+            "PROGRAMMING": {},
+            "SCIENCE": {},
+            "SOUND_VIDEO": {},
+            "SYSTEM_TOOLS": {},
+            "UTILITIES": {}
+        }
     }
 }
