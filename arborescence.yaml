@@ -1,0 +1,2451 @@
+$RECYCLE.BIN:
+  S-1-12-1-1908968637-1152888789-3542856331-2717087518: {}
+APP_DATA:
+  ACCESSORIES: {}
+  EDUCATION: {}
+  GAMES: {}
+  GRAPHICS: {}
+  INTERNET: {}
+  OFFICE: {}
+  PROGRAMMING: {}
+  SCIENCE: {}
+  SOUND_VIDEO: {}
+  SYSTEM_TOOLS: {}
+  UTILITIES:
+    CALIBRE: {}
+DOCUMENTS:
+  ASSOCIATIONS:
+    ACCEP: {}
+    AEE: {}
+    AIG: {}
+    AVF: {}
+    BSD: {}
+    CFBS: {}
+    EPEMN: {}
+    FLC: {}
+    ORDIMISSION: {}
+    VP: {}
+  FAMILY: {}
+  PERSONAL:
+    Fabrice: {}
+  PROFESSIONAL: {}
+MASTERS:
+  AUDIO:
+    AEE: {}
+    AVF: {}
+  BOOK: {}
+  SOFTWARE:
+    ASSOCIATIONS:
+      AVF:
+        audiovie:
+          .git:
+            COMMIT_EDITMSG: null
+            HEAD: null
+            hooks: {}
+            info: {}
+            logs:
+              HEAD: null
+              refs:
+                heads: {}
+                remotes:
+                  origin:
+                    HEAD: null
+            objects:
+              '00': {}
+              '01': {}
+              '02': {}
+              '03': {}
+              '04': {}
+              '05': {}
+              '06': {}
+              '07': {}
+              08: {}
+              09: {}
+              0a: {}
+              0b: {}
+              0c: {}
+              0d: {}
+              0e: {}
+              0f: {}
+              '10': {}
+              '11': {}
+              '12': {}
+              '13': {}
+              '14': {}
+              '15': {}
+              '16': {}
+              '17': {}
+              '18': {}
+              '19': {}
+              1a: {}
+              1b: {}
+              1c: {}
+              1d: {}
+              1e: {}
+              1f: {}
+              '20': {}
+              '21': {}
+              '22': {}
+              '23': {}
+              '24': {}
+              '25': {}
+              '26': {}
+              '27': {}
+              '28': {}
+              '29': {}
+              2a: {}
+              2b: {}
+              2c: {}
+              2d: {}
+              2e: {}
+              2f: {}
+              '30': {}
+              '31': {}
+              '32': {}
+              '33': {}
+              '34': {}
+              '35': {}
+              '36': {}
+              '37': {}
+              '38': {}
+              '39': {}
+              3a: {}
+              3b: {}
+              3c: {}
+              3d: {}
+              3e: {}
+              3f: {}
+              '40': {}
+              '41': {}
+              '42': {}
+              '43': {}
+              '44': {}
+              '45': {}
+              '46': {}
+              '47': {}
+              '48': {}
+              '49': {}
+              4a: {}
+              4b: {}
+              4c: {}
+              4d: {}
+              4e: {}
+              4f: {}
+              '50': {}
+              '51': {}
+              '52': {}
+              '53': {}
+              '54': {}
+              '55': {}
+              '56': {}
+              '57': {}
+              '58': {}
+              '59': {}
+              5a: {}
+              5b: {}
+              5c: {}
+              5d: {}
+              5e: {}
+              5f: {}
+              '60': {}
+              '61': {}
+              '62': {}
+              '63': {}
+              '64': {}
+              '65': {}
+              '66': {}
+              '67': {}
+              '68': {}
+              '69': {}
+              6a: {}
+              6b: {}
+              6c: {}
+              6d: {}
+              6e: {}
+              6f: {}
+              '70': {}
+              '71': {}
+              '72': {}
+              '73': {}
+              '74': {}
+              '75': {}
+              '76': {}
+              '77': {}
+              '78': {}
+              '79': {}
+              7a: {}
+              7b: {}
+              7c: {}
+              7d: {}
+              7e: {}
+              7f: {}
+              '80': {}
+              '81': {}
+              '82': {}
+              '83': {}
+              '84': {}
+              '85': {}
+              '86': {}
+              '87': {}
+              '88': {}
+              '89': {}
+              8a: {}
+              8b: {}
+              8c: {}
+              8d: {}
+              8e: {}
+              8f: {}
+              '90': {}
+              '91': {}
+              '92': {}
+              '93': {}
+              '94': {}
+              '95': {}
+              '96': {}
+              '97': {}
+              '98': {}
+              '99': {}
+              9a: {}
+              9b: {}
+              9c: {}
+              9d: {}
+              9e: {}
+              9f: {}
+              a0: {}
+              a1: {}
+              a2: {}
+              a3: {}
+              a4: {}
+              a5: {}
+              a6: {}
+              a7: {}
+              a8: {}
+              a9: {}
+              aa: {}
+              ab: {}
+              ac: {}
+              ad: {}
+              ae: {}
+              af: {}
+              b0: {}
+              b1: {}
+              b2: {}
+              b3: {}
+              b4: {}
+              b5: {}
+              b6: {}
+              b7: {}
+              b8: {}
+              b9: {}
+              ba: {}
+              bb: {}
+              bc: {}
+              bd: {}
+              be: {}
+              bf: {}
+              c0: {}
+              c1: {}
+              c2: {}
+              c3: {}
+              c4: {}
+              c5: {}
+              c6: {}
+              c7: {}
+              c8: {}
+              c9: {}
+              ca: {}
+              cb: {}
+              cc: {}
+              cd: {}
+              ce: {}
+              cf: {}
+              d0: {}
+              d1: {}
+              d2: {}
+              d3: {}
+              d4: {}
+              d5: {}
+              d6: {}
+              d7: {}
+              d8: {}
+              d9: {}
+              da: {}
+              db: {}
+              dc: {}
+              dd: {}
+              de: {}
+              df: {}
+              e0: {}
+              e1: {}
+              e2: {}
+              e3: {}
+              e4: {}
+              e5: {}
+              e6: {}
+              e7: {}
+              e8: {}
+              e9: {}
+              ea: {}
+              eb: {}
+              ec: {}
+              ed: {}
+              ee: {}
+              ef: {}
+              f0: {}
+              f1: {}
+              f2: {}
+              f3: {}
+              f4: {}
+              f5: {}
+              f6: {}
+              f7: {}
+              f8: {}
+              f9: {}
+              fa: {}
+              fb: {}
+              fc: {}
+              fd: {}
+              fe: {}
+              ff: {}
+              info: {}
+              pack: {}
+            refs:
+              heads: {}
+              remotes:
+                origin:
+                  HEAD: null
+              tags: {}
+          WOL: {}
+          accueil: {}
+          atteindre: {}
+          batch:
+            old: {}
+          bn: {}
+          charte:
+            catalogue: {}
+            fichiers: {}
+            icones: {}
+            outils: {}
+          charte_proj:
+            fichiers: {}
+          commandes: {}
+          data-FCBH: {}
+          data-FileExplorer:
+            logs: {}
+            obsolete: {}
+            obsolète: {}
+            php: {}
+          data-audiovie: {}
+          data-bible:
+            FRNNBS.TXT: null
+            FRNSEM.TXT: null
+            TSK.TXT: null
+            alim: {}
+            bid: {}
+            doc: {}
+          data-commandes: {}
+          data-compta:
+            essais: {}
+            pdf:
+              fpdf:
+                doc: {}
+                font:
+                  unifont: {}
+                makefont: {}
+                tutorial: {}
+          data-configs:
+            MASTERS.TXT: null
+            NT.TXT: null
+            NT2.TXT: null
+            NT2019.TXT: null
+          data-divers: {}
+          data-enfants:
+            SFC.TXT: null
+          data-films: {}
+          data-grid: {}
+          data-iframe: {}
+          data-images: {}
+          data-inscriptions: {}
+          data-joshua:
+            csv2019:
+              jp-access: {}
+            csv2021: {}
+          data-json:
+            php: {}
+          data-langues:
+            donnees-originales: {}
+          data-listes:
+            obsolete:
+              313740240_GWD.TXT: null
+              313740240_INELO.TXT: null
+            travail: {}
+          data-logs: {}
+          data-mono:
+            CEB.TXT: null
+            FAN.TXT: null
+            KBP.TXT: null
+            KFF.TXT: null
+            RWR.TXT: null
+            TEM.TXT: null
+            VAA.TXT: null
+            XUJ.TXT: null
+            batch: {}
+            batchpb: {}
+          data-pays:
+            bak: {}
+            obsolète: {}
+          data-position:
+            UNEPREF.TXT: null
+            data: {}
+            icones:
+              AQUA.GIF: null
+              RED.GIF: null
+            matos: {}
+            old TXT: {}
+            secu: {}
+          data-projets: {}
+          data-roumagnan: {}
+          data-scripts: {}
+          data-telegram:
+            1163093177.TXT: null
+            1362487820.TXT: null
+            480583251.TXT: null
+            522700637.TXT: null
+            5240007419.TXT: null
+            524331788.TXT: null
+            5246921620.TXT: null
+            532954550.TXT: null
+            560932703.TXT: null
+            563223287.TXT: null
+            569882657.TXT: null
+            583186423.TXT: null
+            595899208.TXT: null
+            705585009.TXT: null
+            7083562495.TXT: null
+            726131147.TXT: null
+            816537742.TXT: null
+            Remote Bot: {}
+            obsolete:
+              .TXT: null
+              480583251.TXT: null
+              516079327.TXT: null
+              522700637.TXT: null
+              532954550.TXT: null
+              560932703.TXT: null
+              563223287.TXT: null
+              569882657 (2).TXT: null
+              569882657.TXT: null
+              583186423 (2).TXT: null
+              583186423.TXT: null
+              588207670.TXT: null
+              595899208.TXT: null
+              702892081.TXT: null
+              705585009 (2).TXT: null
+              705585009.TXT: null
+              816537742 (2).TXT: null
+              816537742.TXT: null
+              887040573.TXT: null
+            passport: {}
+            php:
+              crontab: {}
+              fireScripts: {}
+            php_mdan:
+              crontab: {}
+              fireScripts: {}
+          data-thirdmill: {}
+          data-txt:
+            secu: {}
+          data-vivant: {}
+          demo: {}
+          dist:
+            _nuxt:
+              LICENSES: null
+            about: {}
+            programs: {}
+          donnees:
+            obsolete: {}
+          donnees-js:
+            obsolete: {}
+          donnees-php: {}
+          dons: {}
+          echos: {}
+          entree: {}
+          grid: {}
+          grn:
+            histoire-grn_fichiers: {}
+          htaccess:
+            SIPSI: {}
+            data-divers: {}
+          imageSlider: {}
+          images:
+            5fish: {}
+            Bible icons 048png v1: {}
+            Bible icons 256png v1: {}
+            GRN-AGS-presentation: {}
+            GRN-thumbs:
+              gn: {}
+              lll1: {}
+              lll2: {}
+              lll3: {}
+              lll4: {}
+              lll5: {}
+              lll6: {}
+              lll7: {}
+              lll8: {}
+              tlc: {}
+            GRN800x600:
+              gn: {}
+              lll1: {}
+              lll2: {}
+              lll3: {}
+              lll4: {}
+              lll5: {}
+              lll6: {}
+              lll7: {}
+              lll8: {}
+              tlc: {}
+            accueil: {}
+            catalogue: {}
+            coloriage:
+              gn: {}
+              lll1: {}
+              lll2: {}
+              lll3: {}
+              lll4: {}
+              lll5: {}
+              lll6: {}
+              lll7: {}
+              lll8: {}
+              tlc: {}
+            etiquettes: {}
+            logo: {}
+            partnerships: {}
+            photos: {}
+            position: {}
+            sweet:
+              '01':
+                610px: {}
+              '02':
+                610px: {}
+              '03':
+                610px: {}
+              '04':
+                610px: {}
+              '05':
+                610px: {}
+              '06':
+                610px: {}
+              '07':
+                610px: {}
+              08:
+                610px: {}
+              09:
+                610px: {}
+              '10':
+                610px: {}
+              '11':
+                610px: {}
+              '12':
+                610px: {}
+              '13':
+                610px: {}
+              '14':
+                610px: {}
+              '15':
+                610px: {}
+              '16':
+                610px: {}
+              '17':
+                610px: {}
+              '18':
+                610px: {}
+              '19':
+                610px: {}
+              '23':
+                610px: {}
+              '24':
+                610px: {}
+              '26':
+                610px: {}
+              '27':
+                610px: {}
+              '32':
+                610px: {}
+              '40':
+                610px: {}
+              '41':
+                610px: {}
+              '42':
+                610px: {}
+              '43':
+                610px: {}
+              '44':
+                610px: {}
+              '45':
+                610px: {}
+              '55':
+                610px: {}
+              '56':
+                610px: {}
+              '59':
+                610px: {}
+              '62':
+                610px: {}
+              '66':
+                610px: {}
+            sweet-120px: {}
+            sweet-avf: {}
+            sweet-complements:
+              GN: {}
+              LLL: {}
+              MJF: {}
+          jwplayer: {}
+          langues: {}
+          lc: {}
+          librairies:
+            acai-v3:
+              acai-font:
+                css: {}
+                fonts: {}
+              assets: {}
+              css: {}
+              js: {}
+            application:
+              assets: {}
+              css: {}
+              js: {}
+            areyousure-1.9.0:
+              js: {}
+            autocomplete:
+              js: {}
+            bootstrap-3.3.5:
+              css: {}
+              fonts: {}
+              js: {}
+            bootstrap-accessibility-3.1.1:
+              css: {}
+              js: {}
+            calculator-2.0.1:
+              assets: {}
+              css: {}
+              js: {}
+            colorpicker-2013-04-11:
+              css: {}
+              img: {}
+              js: {}
+              less: {}
+            datatables-1.10.8:
+              css: {}
+              images: {}
+              js: {}
+              plugins:
+                autofill-2.0.0:
+                  css: {}
+                  js: {}
+                buttons-1.0.1:
+                  css: {}
+                  js: {}
+                  swf: {}
+                colreorder-1.2.0:
+                  css: {}
+                  js: {}
+                fixedcolumns-3.1.0:
+                  css: {}
+                  js: {}
+                fixedheader-3.0.0:
+                  css: {}
+                  js: {}
+                keytable-2.0.0:
+                  css: {}
+                  js: {}
+                responsive-1.0.7:
+                  css: {}
+                  js: {}
+                rowreorder-1.0.0:
+                  css: {}
+                  js: {}
+                scroller-1.3.0:
+                  css: {}
+                  js: {}
+                select-1.0.0:
+                  css: {}
+                  js: {}
+            datepicker:
+              css: {}
+              js:
+                locales: {}
+            descartes:
+              descartes:
+                gazetteer:
+                  EPSG_2154: {}
+                lib: {}
+                theme:
+                  img: {}
+                  olSkins:
+                    blue: {}
+                    green: {}
+                    red: {}
+              exemples: {}
+              openLayers_2_13_1:
+                lib: {}
+              proj4js:
+                lib:
+                  defs: {}
+            dp.SyntaxHighlighter:
+              Scripts: {}
+              Styles: {}
+              Uncompressed: {}
+              demo: {}
+            dragtable-3.0:
+              css: {}
+              js: {}
+            font-awesome-4.4.0:
+              css: {}
+              fonts: {}
+              less: {}
+              scss: {}
+            font-awesome-badge-1.0.0:
+              css: {}
+              fonts: {}
+            jquery-1.11.3:
+              js: {}
+            jquery-ui-1.11.3:
+              css: {}
+              images: {}
+              js: {}
+            reveal:
+              .github:
+                workflows: {}
+              LICENSE: null
+              css:
+                print: {}
+                theme:
+                  source: {}
+                  template: {}
+              dist:
+                theme:
+                  fonts:
+                    league-gothic:
+                      LICENSE: null
+                    source-sans-pro:
+                      LICENSE: null
+              examples:
+                assets: {}
+              js:
+                components: {}
+                controllers: {}
+                utils: {}
+              plugin:
+                LICENSE: null
+                animate: {}
+                anything: {}
+                audio-slideshow: {}
+                chalkboard:
+                  img: {}
+                chart: {}
+                customcontrols: {}
+                embed-tweet: {}
+                fullscreen: {}
+                highlight: {}
+                markdown: {}
+                math: {}
+                menu:
+                  LICENSE: null
+                  font-awesome:
+                    css: {}
+                    webfonts: {}
+                notes: {}
+                pdfexport:
+                  LICENSE: null
+                poll: {}
+                questions: {}
+                search: {}
+                seminar: {}
+                zoom: {}
+              test:
+                assets: {}
+            reveal-4.0.2:
+              .github:
+                workflows: {}
+              LICENSE: null
+              css:
+                print: {}
+                theme:
+                  source: {}
+                  template: {}
+              dist:
+                theme:
+                  fonts:
+                    league-gothic:
+                      LICENSE: null
+                    source-sans-pro:
+                      LICENSE: null
+              examples:
+                assets: {}
+              js:
+                components: {}
+                controllers: {}
+                utils: {}
+              plugin:
+                LICENSE: null
+                anything: {}
+                audio-slideshow: {}
+                broadcast:
+                  RTCMultiConnection: {}
+                chalkboard:
+                  img: {}
+                chart: {}
+                customcontrols: {}
+                embed-tweet: {}
+                fullscreen: {}
+                highlight: {}
+                markdown: {}
+                math: {}
+                mathsvg: {}
+                menu:
+                  LICENSE: null
+                  font-awesome:
+                    css: {}
+                    webfonts: {}
+                notes: {}
+                pdfexport:
+                  LICENSE: null
+                search: {}
+                spreadsheet: {}
+                zoom: {}
+              test:
+                assets: {}
+              zip: {}
+            sb-admin-2-1.0.7:
+              css: {}
+              js: {}
+            tablenav-0.1.0:
+              js: {}
+            telegram: {}
+          liens: {}
+          lightstream:
+            www:
+              css: {}
+              doc: {}
+              img:
+                startup: {}
+                touch: {}
+              js:
+                img:
+                  startup: {}
+                  touch: {}
+                vendor: {}
+          linguistique: {}
+          lll: {}
+          mailbox:
+            '1017470788410654315469759518541': {}
+            '1017935189352977289426536086225': {}
+            '1046673900739110768987971147517': {}
+            '1093405718947442715799692348934': {}
+            '1100364252171419008929809596767': {}
+            '1118251203423364593130304026085': {}
+            '1170096982621656142220055304074': {}
+            '124433835114847340377934525637939913262084482369309391450370601': {}
+            '124476194499692838732702210300': {}
+            '1253317421526266480568135792353': {}
+            '130202299793154031219977748949': {}
+            '137046268784159659342807983989': {}
+            '137938062637662019759439119590': {}
+            '199284127717082351127466969640': {}
+            '229932940962446478454720296747': {}
+            '312267904745976084492988014101': {}
+            '322234210569545633550478775115': {}
+            '329594624684697788720585530324': {}
+            '341274712098257819319869380966': {}
+            '418179096991743149316678897603': {}
+            '427674789800218798947723639965': {}
+            '465509413833537198405786823802': {}
+            '466468727019921155549113424493': {}
+            '484857936022620192973807056911': {}
+            '496643133373956661024947142750': {}
+            '496887745525370630822269973041': {}
+            '511380665275454990645861718558': {}
+            '522494190373719104836949566129': {}
+            '534636553297859820383732844238': {}
+            '53503396223633068328473715081': {}
+            '544752646324991290712083035890': {}
+            '594178650239299331557754612801': {}
+            '596131483537033514121902072402': {}
+            '621463425938603679582374634253': {}
+            '683534721320116092840400169502': {}
+            '699737876355673742147576734116': {}
+            '736041730186276904212300947222': {}
+            '736782901753743547334213710061': {}
+            '751949881259953425830369853714': {}
+            '796317570573435718098852089296': {}
+            '804951225003642439450863784133': {}
+            '808839342856842752729958402890': {}
+            '86459757210424748599187555284': {}
+            '878370600809994258896128554325': {}
+            '878772704402391448721573596004': {}
+            '880434604049450478983677107964': {}
+            '890202361874824050591001113773': {}
+            '986257238740365319618707166377': {}
+            '987643646486762486299433724303': {}
+            '990292268831142956229983896627': {}
+            '998184331451394379261826512618': {}
+            presence: {}
+          materiel:
+            audio-library: {}
+            bible-solaire:
+              obsolete: {}
+            cd-data: {}
+            enregistrement: {}
+            kit: {}
+            kit-bluetooth: {}
+            lecteurs: {}
+            lightstream: {}
+            picoprojecteurs: {}
+          membres: {}
+          notices: {}
+          nouvelles: {}
+          obsolete:
+            data-crypto: {}
+          outils: {}
+          partenariats: {}
+          pays:
+            grid: {}
+          peuples: {}
+          photos:
+            oswald: {}
+            pays: {}
+          procedures:
+            anglais: {}
+            statuts: {}
+          promotion: {}
+          prospectus: {}
+          qualite:
+            old: {}
+          recordistes: {}
+          requetes:
+            JEN.XLS: null
+            obsolete: {}
+          reveal-docs:
+            assets: {}
+            documentation: {}
+            images:
+              AVF:
+                5fish: {}
+                Vision: {}
+                facebook: {}
+                persecuted: {}
+                players: {}
+                short_term: {}
+                usage: {}
+              missioncamp2024:
+                Asia: {}
+                Central_Africa: {}
+                India_Nepal: {}
+                Vietnam_Thailand: {}
+                West_Africa: {}
+              reforme: {}
+              vaudois:
+                histoire-generale: {}
+            obsolete:
+              ImageSlider: {}
+          scripts:
+            WOL:
+              femme-au-puits.files: {}
+              pardon.files: {}
+          sites-web:
+            OW:
+              burk_fichiers: {}
+            ethnologue:
+              BF_fichiers: {}
+              mos_fichiers: {}
+            joshua:
+              fichiers: {}
+            joshua2:
+              burkina_files: {}
+              moore_files: {}
+              mossi_files: {}
+            siteGRN:
+              C29730_fichiers: {}
+              C74710_fichiers: {}
+              UV_fichiers: {}
+              mos_fichiers: {}
+              script:
+                eng:
+                  228_fichiers: {}
+                  238_fichiers: {}
+          tables:
+            _gsdata_:
+              _saved_:
+                doc: {}
+                images: {}
+                php: {}
+            bid: {}
+            certificats: {}
+            doc:
+              exemples: {}
+            images:
+              botpic: {}
+              descartes: {}
+              icones: {}
+              messagerie: {}
+            matos: {}
+            php:
+              secu: {}
+          textes:
+            CNEF: {}
+            anglais: {}
+            bid: {}
+            langues: {}
+          tour: {}
+        internet:
+          .git:
+            HEAD: null
+            hooks: {}
+            info: {}
+            logs:
+              HEAD: null
+              refs:
+                heads: {}
+                remotes:
+                  origin:
+                    HEAD: null
+            objects:
+              info: {}
+              pack: {}
+            refs:
+              heads: {}
+              remotes:
+                origin:
+                  HEAD: null
+              tags: {}
+      ORDIMISSION:
+        classification-tools:
+          .git:
+            HEAD: null
+            hooks: {}
+            info: {}
+            logs:
+              HEAD: null
+              refs:
+                heads: {}
+                remotes:
+                  origin:
+                    HEAD: null
+            objects:
+              info: {}
+              pack: {}
+            refs:
+              heads: {}
+              remotes:
+                origin:
+                  HEAD: null
+              tags: {}
+          LICENSE: null
+        ordi-tools: {}
+        voice-scanner:
+          src:
+            main:
+              java:
+                com:
+                  ordimission:
+                    voicescanner:
+                      command: {}
+                      config: {}
+                      dto: {}
+              python:
+                core:
+                  command: {}
+              resources: {}
+            test:
+              java:
+                com:
+                  ordimission:
+                    voicescanner: {}
+        voicescannerpy-master:
+          install: {}
+          voicescannerpy:
+            core:
+              command:
+                sound:
+                  speech: {}
+                text: {}
+            ui:
+              console:
+                input: {}
+              input: {}
+              output: {}
+              voice:
+                output: {}
+      VP:
+        eu-green-pass-decoder:
+          LICENCE: null
+          eu-green-pass-decoder:
+            __pycache__: {}
+            data: {}
+            test: {}
+          specifications: {}
+    PERSONAL: {}
+    PROFESSIONAL: {}
+  VIDEO: {}
+PRODUCTS:
+  AUDIO:
+    AEE:
+      DD365 fra: {}
+      DD365 fra 6 folders:
+        Carnet 1 Quel Dieu merveilleux: {}
+        Carnet 2 Dieu dans ma vie: {}
+        Carnet 3 Rester connecte╠ü: {}
+        Carnet 4 Dieu a╠Ç la premie╠Çre place: {}
+        Carnet 5 Suivre le plan de Dieu: {}
+        Carnet 6 Prendre position: {}
+        Carnet 7 vides: {}
+    AOW:
+      SFC:
+        ARABIC: {}
+        BENGALI: {}
+        CHINESE: {}
+        ENGLISH: {}
+    AVF:
+      mono_configs: {}
+    GRN: {}
+    THIRDMILL: {}
+  BOOK:
+    Logos:
+      Bailly: {}
+      DRB: {}
+      DRBE: {}
+      KJV: {}
+      LSG: {}
+      WH: {}
+    S5: {}
+    THIRDMILL:
+      FR: {}
+  SOFTWARE:
+    ACCESSORIES: {}
+    EDUCATION:
+      Android: {}
+      Windows_x64: {}
+    GAMES: {}
+    GRAPHICS: {}
+    INTERNET:
+      Android: {}
+      Windows_x64: {}
+    OFFICE:
+      Android: {}
+      Windows_x64: {}
+    PROGRAMMING: {}
+    SCIENCE: {}
+    SOUND_VIDEO:
+      Android: {}
+    SYSTEM_TOOLS: {}
+    UTILITIES: {}
+    apk: {}
+  VIDEO:
+    AEE: {}
+    AOW:
+      SFC: {}
+    AVF:
+      CAMEROUN32:
+        01 GRN_mp4: {}
+        02 film_Jesus: {}
+        03 Théologie:
+          Le Symbole des Apotres:
+            PDF: {}
+            Video: {}
+            mp3: {}
+          Nous Croyons en l'Esprit-Saint:
+            Audio mp3: {}
+            PDF et Word: {}
+            Video: {}
+        04 AT Français FRABIBO1DA:
+          01 GEN: {}
+          02 EXO: {}
+          03 LEV: {}
+          04 NUM: {}
+          05 DEU: {}
+          06 JOS: {}
+          07 JDG: {}
+          08 RUT: {}
+          09 1SA: {}
+          10 2SA: {}
+          11 1KI: {}
+          12 2KI: {}
+          13 1CH: {}
+          14 2CH: {}
+          15 EZR: {}
+          16 NEH: {}
+          17 EST: {}
+          18 JOB: {}
+          19 PSA: {}
+          20 PRO: {}
+          21 ECC: {}
+          22 SNG: {}
+          23 ISA: {}
+          24 JER: {}
+          25 LAM: {}
+          26 EZK: {}
+          27 DAN: {}
+          28 HOS: {}
+          29 JOL: {}
+          30 AMO: {}
+          31 OBA: {}
+          32 JON: {}
+          33 MIC: {}
+          34 NAM: {}
+          35 HAB: {}
+          36 ZEP: {}
+          37 HAG: {}
+          38 ZEC: {}
+          39 MAL: {}
+        05 NT Français FRNPDVN2DA:
+          40 MAT: {}
+          41 MRK: {}
+          42 LUK: {}
+          43 JHN: {}
+          44 ACT: {}
+          45 ROM: {}
+          46 1CO: {}
+          47 2CO: {}
+          48 GAL: {}
+          49 EPH: {}
+          50 PHP: {}
+          51 COL: {}
+          52 1TH: {}
+          53 2TH: {}
+          54 1TI: {}
+          55 2TI: {}
+          56 TIT: {}
+          57 PHM: {}
+          58 HEB: {}
+          59 JAS: {}
+          60 1PE: {}
+          61 2PE: {}
+          62 1JN: {}
+          63 2JN: {}
+          64 3JN: {}
+          65 JUD: {}
+          66 REV: {}
+        06 Bulu NT BUMABCN1DA:
+          40 MAT: {}
+          41 MRK: {}
+          42 LUK: {}
+          43 JHN: {}
+          44 ACT: {}
+          45 ROM: {}
+          46 1CO: {}
+          47 2CO: {}
+          48 GAL: {}
+          49 EPH: {}
+          50 PHP: {}
+          51 COL: {}
+          52 1TH: {}
+          53 2TH: {}
+          54 1TI: {}
+          55 2TI: {}
+          56 TIT: {}
+          57 PHM: {}
+          58 HEB: {}
+          59 JAS: {}
+          60 1PE: {}
+          61 2PE: {}
+          62 1JN: {}
+          63 2JN: {}
+          64 3JN: {}
+          65 JUD: {}
+          66 REV: {}
+        07 Basaa NT BAAABCN2DA:
+          40 MAT: {}
+          41 MRK: {}
+          42 LUK: {}
+          43 JHN: {}
+          44 ACT: {}
+          45 ROM: {}
+          46 1CO: {}
+          47 2CO: {}
+          48 GAL: {}
+          49 EPH: {}
+          50 PHP: {}
+          51 COL: {}
+          52 1TH: {}
+          53 2TH: {}
+          54 1TI: {}
+          55 2TI: {}
+          56 TIT: {}
+          57 PHM: {}
+          58 HEB: {}
+          59 JAS: {}
+          60 1PE: {}
+          61 2PE: {}
+          62 1JN: {}
+          63 2JN: {}
+          64 3JN: {}
+          65 JUD: {}
+          66 REV: {}
+        08 Fulfulde Adamawa NT FU1ABCN2DA:
+          40 MAT: {}
+          41 MRK: {}
+          42 LUK: {}
+          43 JHN: {}
+          44 ACT: {}
+          45 ROM: {}
+          46 1CO: {}
+          47 2CO: {}
+          48 GAL: {}
+          49 EPH: {}
+          50 PHP: {}
+          51 COL: {}
+          52 1TH: {}
+          53 2TH: {}
+          54 1TI: {}
+          55 2TI: {}
+          56 TIT: {}
+          57 PHM: {}
+          58 HEB: {}
+          59 JAS: {}
+          60 1PE: {}
+          61 2PE: {}
+          62 1JN: {}
+          63 2JN: {}
+          64 3JN: {}
+          65 JUD: {}
+          66 REV: {}
+        09 Duala NT DUAABCN2DA:
+          40 MAT: {}
+          41 MRK: {}
+          42 LUK: {}
+          43 JHN: {}
+          44 ACT: {}
+          45 ROM: {}
+          46 1CO: {}
+          47 2CO: {}
+          48 GAL: {}
+          49 EPH: {}
+          50 PHP: {}
+          51 COL: {}
+          52 1TH: {}
+          53 2TH: {}
+          54 1TI: {}
+          55 2TI: {}
+          56 TIT: {}
+          57 PHM: {}
+          58 HEB: {}
+          59 JAS: {}
+          60 1PE: {}
+          61 2PE: {}
+          62 1JN: {}
+          63 2JN: {}
+          64 3JN: {}
+          65 JUD: {}
+          66 REV: {}
+        10 Prédications Fernand Legrand:
+          0000_Elisee: {}
+          0100_Le Maître: {}
+    GRN: {}
+    THIRDMILL:
+      FR:
+        $Audio Vie:
+          GRN800x600:
+            gn: {}
+            lll1: {}
+            lll2: {}
+            lll3: {}
+            lll4: {}
+            lll5: {}
+            lll6: {}
+            lll7: {}
+            lll8: {}
+            tlc: {}
+          musique: {}
+        $Malgache:
+          GRN Merina: {}
+        Ancien Testament:
+          pdf: {}
+          video: {}
+        Apocalypse de Jean - REV:
+          Manuscrits: {}
+          Video: {}
+        Construire sa théologie - BYT:
+          Manuscrits: {}
+          Video: {}
+        Heritage Huguenot:
+          Dieu a-t-il réellement dit: {}
+          LIVRES: {}
+        Histoire Primitive - PRH:
+          Manuscrits: {}
+          Video: {}
+        Il a parlé par les prophètes - HGP:
+          Manuscrits: {}
+          Video: {}
+        Il nous a donné les Ecritures - HGB:
+          Manuscrits: {}
+          Video: {}
+        Le Patriarche Abraham - FA:
+          Video: {}
+          manuscrits: {}
+        Le Symbole des Apotres:
+          PDF: {}
+          Video: {}
+        Le livre de Josué - JOS:
+          PDF et Word: {}
+          Video: {}
+        Le livre des Actes - ACT:
+          Manuscrits: {}
+          Video: {}
+        Les Évangiles - GOS:
+          PDF et Word: {}
+          Video: {}
+        L’Épître aux Hébreux - HEB:
+          PDF et Word: {}
+          Video: {}
+        L’épître de Jacques:
+          PDF et Word: {}
+          Video: {}
+        Nous Croyons en Dieu:
+          PDF: {}
+          Video: {}
+        Nous Croyons en Jesus:
+          PDF et Word: {}
+          Videos: {}
+        Nous Croyons en l'Esprit-Saint:
+          PDF et Word: {}
+          Video: {}
+        Nouveau Testament:
+          PDF: {}
+          Video: {}
+        Qu’est-ce que l’homme:
+          PDF et Word: {}
+          Videos: {}
+        Theologie de Paul - HPT:
+          Manuscrits: {}
+SOFTWARE:
+  ACCESSORIES: {}
+  EDUCATION:
+    Windows_x64:
+      Logos:
+        Data:
+          13zqu21q.s0d:
+            AtlasManager: {}
+            AudioPlayer:
+              2024-11-06_37.1.0.6: {}
+            AutoComplete: {}
+            CloudResourceManager: {}
+            DownloadManager: {}
+            Errors:
+              Application: {}
+              CorruptIndex: {}
+              CriticalSyncClient: {}
+              Indexer: {}
+              LogosMediaErrors: {}
+              LogosPerformanceLogging: {}
+              SyncClient: {}
+            GlobalMilestoneIndex: {}
+            HistoryManager: {}
+            KeyLinkManager: {}
+            LibraryCatalog: {}
+            LibraryIndex: {}
+            LicenseManager: {}
+            PersonalBookIndex: {}
+            ReadingProgressManager: {}
+            ResourceFileDownloadInfo: {}
+            ResourceManager:
+              AncientLiterature: {}
+              Audio: {}
+              BibleCrossReferences: {}
+              BibleKnowledgebase: {}
+              Biographies: {}
+              ChurchHistory: {}
+              ClauseVisualizer: {}
+              Clauses: {}
+              CounselingThemes: {}
+              CrossReferences: {}
+              Downloaded: {}
+              Events: {}
+              Excerpts: {}
+              FactbookMedia: {}
+              GrammaticalRelationships: {}
+              Html: {}
+              ImportantWords: {}
+              InterlinearDatabase: {}
+              LemmaLists: {}
+              Lemmas: {}
+              LexhamCulturalOntology: {}
+              LexhamSTOntology: {}
+              LiteraryTyping: {}
+              LogosControlledVocabulary: {}
+              Maps: {}
+              NamedTexts: {}
+              PeopleDiagrams: {}
+              PericopeSets: {}
+              PhraseConcordance: {}
+              PreachingThemes: {}
+              Pronunciations: {}
+              Referents: {}
+              ReportedSpeech: {}
+              Resources: {}
+              ReverseInterlinear: {}
+              SupplementalData: {}
+              SyntaxDatabase: {}
+              ThematicOutlines: {}
+              Timelines: {}
+              UnifiedAnnotationVocabulary: {}
+              UniversalTimeline: {}
+              WordSenses: {}
+              logos: {}
+            ResourceViewRecordsManager: {}
+            ReverseInterlinearManager: {}
+            Telemetry: {}
+            TouchPoints: {}
+            UpdateManager:
+              Resources: {}
+            Updates: {}
+            UserDictionaryManager: {}
+            UserEventManager: {}
+            WebBrowser:
+              CURRENT: null
+              Cache:
+                Cache_Data: {}
+              Code Cache:
+                js:
+                  index-dir: {}
+                wasm:
+                  index-dir: {}
+              DawnCache: {}
+              GPUCache: {}
+              LOCK: null
+              LOG: null
+              Local Storage:
+                leveldb:
+                  CURRENT: null
+                  LOCK: null
+                  LOG: null
+                  MANIFEST-000001: null
+              MANIFEST-000001: null
+              Network: {}
+              Session Storage:
+                CURRENT: null
+                LOCK: null
+                LOG: null
+                MANIFEST-000001: null
+              blob_storage:
+                9afdafe0-322e-40d3-9f79-f1ca294910d2: {}
+            WebCache: {}
+        Documents:
+          13zqu21q.s0d:
+            CopyBibleVerses: {}
+            DeviceResourceManager: {}
+            Documents:
+              Bibliography: {}
+              Clippings: {}
+              Notes: {}
+              PassageList: {}
+              PrayerList: {}
+              ReadingPlan: {}
+              VisualFilter: {}
+              WordFind: {}
+              WordList: {}
+            FavoritesManager: {}
+            GuidedLearning:
+              Thumbnails: {}
+            Guides: {}
+            KeyLinkManager: {}
+            LayoutManager: {}
+            LibraryCatalog: {}
+            LocalUserPreferences: {}
+            NotesToolManager: {}
+            PersonalBooks: {}
+            ReadingLists: {}
+            ReferenceWordCounts: {}
+            ResourceCollectionManager: {}
+            ResourceManager: {}
+            SelfTests: {}
+            ShortcutsManager: {}
+            UserInputs: {}
+            UserPreferences2: {}
+            VisualMarkup: {}
+            Workflows: {}
+        Shared:
+          Cache:
+            Profile: {}
+          Errors:
+            Application: {}
+            Indexer: {}
+          Products: {}
+        System:
+          CefLocales: {}
+          af: {}
+          cs: {}
+          data:
+            dictionaries: {}
+          de: {}
+          de-DE: {}
+          es: {}
+          es-ES: {}
+          fr: {}
+          fr-FR: {}
+          it: {}
+          ja: {}
+          ko: {}
+          ko-KR: {}
+          nl: {}
+          pl: {}
+          pt: {}
+          pt-BR: {}
+          ru: {}
+          ru-RU: {}
+          sv-SE: {}
+          swiftshader: {}
+          tr: {}
+          zh-CN: {}
+          zh-Hans: {}
+          zh-Hant: {}
+          zh-TW: {}
+        Users: {}
+        en-US: {}
+        es-ES: {}
+        es-MX: {}
+  GAMES: {}
+  GRAPHICS: {}
+  INTERNET:
+    Windows_x64:
+      Telegram:
+        modules:
+          x64:
+            d3d: {}
+        tdata:
+          D877F783D5D3EF8C: {}
+          dumps: {}
+          emoji:
+            keywords: {}
+            spoiler: {}
+          tdummy: {}
+          temp: {}
+          user_data:
+            cache:
+              '0':
+                '00':
+                  53F2868083EC: null
+                  66393079D5A4: null
+                  906EF782D75A: null
+                  D189BB8B1FBE: null
+                '01':
+                  11CE793A1DBF: null
+                  A49817954E30: null
+                '02':
+                  CF7306619E02: null
+                '03':
+                  2D05C3B8C3E7: null
+                '05':
+                  67BE4DB0F5B0: null
+                '06':
+                  20D1364AD6F6: null
+                  A6D19FB1D9C4: null
+                  E498CC23A117: null
+                '07':
+                  0EC14C099229: null
+                  D49377CDA48C: null
+                08:
+                  5AE833333D22: null
+                  D89AD1BD9871: null
+                09:
+                  86CE52BFC585: null
+                0A:
+                  1DD4C690DAD8: null
+                  5B899B6B183A: null
+                  C0A778AEA7ED: null
+                0B:
+                  4735D15EBF87: null
+                  5973924077AE: null
+                  9B8C209217A0: null
+                0C:
+                  2421D1C00CA0: null
+                  2CBB81B9B0DF: null
+                  C0AEA73E0F0A: null
+                0F:
+                  31F34773A232: null
+                  C0B7740311DC: null
+                '10':
+                  8B83292CC163: null
+                '12':
+                  3ECB79DC0EE8: null
+                  7BEB039C99CA: null
+                '13':
+                  7197501F429B: null
+                  791CA98DEF25: null
+                '14':
+                  80F78CCB8153: null
+                  E764B0B7C009: null
+                  FBCE76D10A4D: null
+                '15':
+                  1807102D8AA9: null
+                  2158C7B00513: null
+                  9B9C9970D93B: null
+                '16':
+                  28C441A87BC0: null
+                  A2EE569C8838: null
+                '17':
+                  0380FF8DFC4F: null
+                  2DBFCC53BEE1: null
+                  93C1B04D2DF2: null
+                  D71B3EBAB841: null
+                  D9E873A15CDA: null
+                '18':
+                  449D61B59DBF: null
+                  FD288F542E55: null
+                '19':
+                  D9DA6E2DF8F7: null
+                1B:
+                  034C53ABA3A0: null
+                  0FD23E06ED91: null
+                  71E37EDBE14F: null
+                1C:
+                  9EAFA4AA7683: null
+                1E:
+                  5B3B08235AE4: null
+                  6F6A1790B607: null
+                  B87F14B4C241: null
+                  D5E441227349: null
+                1F:
+                  DAE637209485: null
+                '20':
+                  5883990D8362: null
+                  9F15271BD9E4: null
+                  EC4B99FE60E6: null
+                '22':
+                  13D6DE06D43D: null
+                  B7F9C3C1BA84: null
+                  BF54145FBA3B: null
+                  D07E8BC27B65: null
+                '23':
+                  8C91CC4E8E1A: null
+                  D138C35FB949: null
+                  E703F28A8315: null
+                '24':
+                  4B632DB63DA8: null
+                  B6EA225251AA: null
+                '26':
+                  14585B7909B8: null
+                  3A93F8833EEC: null
+                  8A8947629247: null
+                  E47DF99341D2: null
+                '27':
+                  2FE0445FF393: null
+                  3FE94A4E6ABD: null
+                  FB0EF821FDFA: null
+                '28':
+                  9A59951615B7: null
+                2A:
+                  71DAC689A14A: null
+                  D8D6570E176A: null
+                2B:
+                  9FF6B91384BE: null
+                2C:
+                  A338478BF947: null
+                2D:
+                  ACD29F51179E: null
+                  FF7B65BF90DD: null
+                2E:
+                  62CC9E7F4257: null
+                2F:
+                  299B33A52187: null
+                  52D8C19ED0B6: null
+                  905F634D054A: null
+                '30':
+                  25EE4E837BC6: null
+                  2E509E9C145B: null
+                '31':
+                  4F6E83186265: null
+                  6E21743D9CDA: null
+                '32':
+                  0FC1FD45AB6D: null
+                  CB0A35ABE139: null
+                '33':
+                  0547A47BC7C3: null
+                '34':
+                  6BE29A89E304: null
+                  95A6DE45572E: null
+                '35':
+                  7B0640BBD810: null
+                '36':
+                  0923BF115321: null
+                  39A6851F1FAA: null
+                  3F7C64862BAA: null
+                  41D569F5809A: null
+                  8F1597471A95: null
+                '37':
+                  51AA71AE565B: null
+                '38':
+                  1D03D58A97E5: null
+                '39':
+                  7FA42FDA0642: null
+                  806F33E1BD98: null
+                3A:
+                  64F254438DA1: null
+                  7D523871B572: null
+                3B:
+                  03A6D349FF33: null
+                  3DAD4FADAD57: null
+                  480918D913F5: null
+                  AB17F8733C1D: null
+                  FBBF306A79A6: null
+                3D:
+                  1C7B8AA753DE: null
+                  421E31D045B1: null
+                  4BABBA05E586: null
+                  C4E59D36FFA7: null
+                3F:
+                  A7B40E9B0D7D: null
+                '40':
+                  2BCA5C163223: null
+                  81433F46B656: null
+                  B0891A5CFF3C: null
+                  D60EDF38F181: null
+                '41':
+                  31480C553518: null
+                  5A4999E6463E: null
+                '42':
+                  272E3672DB19: null
+                '43':
+                  DECE4184B0E9: null
+                '44':
+                  1E889312608C: null
+                  4492351BAD6A: null
+                  B4A7357AE514: null
+                  FC27B3D2C882: null
+                '45':
+                  2CE2FB8E9753: null
+                  756C69F86019: null
+                '46':
+                  6CB72F132495: null
+                  94727523CBF4: null
+                  BD6CF67BBCE1: null
+                '47':
+                  73E0ED518050: null
+                '48':
+                  6CD223783039: null
+                '49':
+                  4A9447CD3EC8: null
+                  F25FD7335E80: null
+                  F78ED2821495: null
+                4A:
+                  1EA2E60C67A3: null
+                  FE0602C0BA57: null
+                4C:
+                  A9584DAE8EC1: null
+                  B689A38BD92C: null
+                  F90A8B44C22E: null
+                4D:
+                  52F7757DD429: null
+                  58448D7E4109: null
+                  DF819D418AB5: null
+                4E:
+                  D0B6AD23B6E9: null
+                4F:
+                  09000BA4C327: null
+                  F59A541B2DA8: null
+                '51':
+                  3FA695538DB0: null
+                  6C94675A68C7: null
+                  DB58A1BF133E: null
+                  F0356440B47E: null
+                  F3B005E8195F: null
+                '52':
+                  334AFD719FFB: null
+                '53':
+                  42445637A840: null
+                  5618F18FABC9: null
+                '54':
+                  C01DDC509A95: null
+                '55':
+                  5E6DD5095C9F: null
+                '57':
+                  2D3B02CD9CAE: null
+                  499246EA1AA0: null
+                  CB24E7030AB2: null
+                  DB2B7F46B5CA: null
+                '58':
+                  3B648D02B26F: null
+                  FF6E215683CD: null
+                '59':
+                  47050DB4139E: null
+                5A:
+                  7B053C059820: null
+                  7C15C5AE5894: null
+                  EC948F798D82: null
+                5B:
+                  BCECA850A06A: null
+                5C:
+                  F3BD5DE8C61E: null
+                5E:
+                  5FC4DC6F733B: null
+                  6A3F2B6547AE: null
+                5F:
+                  7C2DF00ECD02: null
+                  B792E1272B37: null
+                '60':
+                  80B4C8899C73: null
+                  827191808A7A: null
+                '61':
+                  AEBE81742E66: null
+                  DB4B244A7B77: null
+                '62':
+                  73FA4C7C1AFC: null
+                  802AB00111C8: null
+                  B051489584A4: null
+                  E21D10E6C952: null
+                '63':
+                  748AE5222AAE: null
+                  F52C302EF0FF: null
+                '64':
+                  17112BCDCC9B: null
+                '65':
+                  3BA72A0FA796: null
+                  4DAD6024C151: null
+                '66':
+                  74B0424D46E1: null
+                  D713D1801590: null
+                '68':
+                  59A66E9A3470: null
+                '69':
+                  7EF904A8573B: null
+                  A33488EDEC4C: null
+                6A:
+                  49D3D680A874: null
+                  85A26C3946D4: null
+                  9448263B25E2: null
+                6B:
+                  24E1E119F26E: null
+                  4A451B1823AB: null
+                  91F61A559237: null
+                  EDFF33AD3606: null
+                6C:
+                  EC9CA3D5428A: null
+                6D:
+                  3AC3C51830E8: null
+                6E:
+                  0801FD7D4B9C: null
+                6F:
+                  0BE462FBA90F: null
+                  BD6AADAC8B7C: null
+                  BE1058F966EB: null
+                '70':
+                  ADBBC100AB95: null
+                '71':
+                  1FB2FACAE5B9: null
+                  B4480BCB9656: null
+                '72':
+                  20C714B5A6D9: null
+                  44F95F87BD68: null
+                  874CFE70E785: null
+                '73':
+                  093B2C715933: null
+                  A6FE89DFA094: null
+                '74':
+                  C134985FEEA8: null
+                '76':
+                  2AE32D823BC5: null
+                  AB47B86F2228: null
+                '77':
+                  C9ADECEDC0F9: null
+                '78':
+                  5E3834911B90: null
+                '79':
+                  5A3892852A5E: null
+                  D7BBBD117201: null
+                7A:
+                  7C9587D32CAF: null
+                  9870C970596B: null
+                  BDEB19A5E964: null
+                  D3AD4596F569: null
+                7B:
+                  B93103DBA504: null
+                7C:
+                  63EA4CABAFDA: null
+                  CA7505696F27: null
+                  DE3B75ACDF91: null
+                7D:
+                  FC1703D7C36F: null
+                7E:
+                  2A1BC3CDC4DB: null
+                  5E96C3B89D18: null
+                  9B6302CE47E8: null
+                  C5C3B09CDEB1: null
+                  F21947A02C1B: null
+                7F:
+                  20FBA2A3A57A: null
+                  9E276EF782CB: null
+                  CA88AADEF7F0: null
+                '80':
+                  6E0FB314004D: null
+                '81':
+                  52E9F8ED1BB9: null
+                  73B7E1B07D41: null
+                  A19FADBD78D8: null
+                '82':
+                  0E6D6EAB8B12: null
+                  725385A23DEA: null
+                  E02A6E49013E: null
+                '83':
+                  212DC03870DA: null
+                  512E8600A7FA: null
+                  D214260EFDD6: null
+                '84':
+                  A39B572A47D7: null
+                '86':
+                  9E4D83A080CD: null
+                '88':
+                  38B91CBE3E42: null
+                  7A67B8AD4E47: null
+                  82116F4C34DF: null
+                  9676C17E8D0B: null
+                  EAC79788C652: null
+                '89':
+                  AD56E5BA0966: null
+                  B33BA6F5FE93: null
+                8B:
+                  22E0413431A6: null
+                8C:
+                  9328EBFA469B: null
+                  97FE9F95AFF9: null
+                  AB04143DD23F: null
+                8D:
+                  350CCC4BF0D6: null
+                  836E328AF4FA: null
+                8E:
+                  4A4BF6ABC2F8: null
+                  78616365E4F8: null
+                8F:
+                  A4FB453F2B5F: null
+                '90':
+                  743EF66CDB9A: null
+                '91':
+                  48DA405CDC22: null
+                  6B102C5D0AC4: null
+                  FA2CE844CA15: null
+                  FFF222A855EC: null
+                '95':
+                  DB612A01AC20: null
+                  F2FBC68C0F05: null
+                '96':
+                  3E5DA1F4702A: null
+                  FDC1C6D166B7: null
+                '97':
+                  4C5E4D2AE021: null
+                  E493BA0DBABE: null
+                '98':
+                  234EBEBA123D: null
+                '99':
+                  73BAC25ECDB2: null
+                  9770C4E9FB53: null
+                  B775DCE473DC: null
+                  DCA711DC3939: null
+                9A:
+                  777C55BFBB30: null
+                9B:
+                  0D26A2703AF9: null
+                  467434679FEA: null
+                  6085E941B4D9: null
+                  DCC6CC908390: null
+                9C:
+                  0EC6F534DEC1: null
+                  843D914CEF5A: null
+                9D:
+                  2AB60B472E09: null
+                  53C106B02AA9: null
+                9E:
+                  1046224B44CC: null
+                  F196264840EF: null
+                9F:
+                  7CE516D17F8C: null
+                  86737C5707DB: null
+                  A6F9FC422185: null
+                  AA107FB4C771: null
+                  E4B194D91930: null
+                A0:
+                  2F3D5B760416: null
+                A1:
+                  E2357305EC46: null
+                  FCCB702621AF: null
+                A2:
+                  462ED15A82C1: null
+                  83CFE55341D9: null
+                  B5913E00D387: null
+                  B70E85CEEA81: null
+                  C0EA1071A157: null
+                A3:
+                  6714C2538908: null
+                A4:
+                  544A23D5A56E: null
+                  DCEDF83CEDD3: null
+                A5:
+                  7EF2CA4BBCB5: null
+                  B9082EDF7CA6: null
+                  D80E41B38BAC: null
+                A6:
+                  B7DFF11F7A54: null
+                A7:
+                  E820BB93A4C1: null
+                A9:
+                  D1CAFCE0D6B3: null
+                  D2FF6EFB6549: null
+                AA:
+                  0CDBE1ABE13C: null
+                  3EEB76DFAAF4: null
+                  6B548BAB7238: null
+                  A5C93C6DDDAB: null
+                AB:
+                  75288BB8FA4E: null
+                AC:
+                  0BDC54C57274: null
+                  AF4851182C8F: null
+                AD:
+                  5114D75C970F: null
+                  7F06E3088693: null
+                  E418A54450A1: null
+                AE:
+                  A7D6E88E5F32: null
+                AF:
+                  4FD33A107B13: null
+                  913624C95503: null
+                B0:
+                  1C4C6915D0F8: null
+                  819CE6134BCD: null
+                B1:
+                  9658C78CF8A8: null
+                  A37E3B34BA4D: null
+                  E4746D3A9717: null
+                B2:
+                  5B93A59596CA: null
+                  633A4A7403C0: null
+                  87A48C9EBA4D: null
+                  8A28EC6F788D: null
+                B3:
+                  0188C0F40D22: null
+                  2E11ECC9C299: null
+                  C419F6B19E36: null
+                B4:
+                  C850D17F9A5D: null
+                  ED912FC99CFF: null
+                B5:
+                  15ADB0B54CEF: null
+                  EDDCCABA0582: null
+                B7:
+                  CD63CBBD5060: null
+                B8:
+                  811E8B7BCF97: null
+                BA:
+                  191040D69F10: null
+                  2B7A7A476E90: null
+                  989A3E4A97BC: null
+                BB:
+                  0BDBBFC04518: null
+                  0F35017235F0: null
+                  4D6A7CC8210F: null
+                  8577ECACB0AA: null
+                BC:
+                  A8E42C7040F4: null
+                BD:
+                  03822E0DFFB5: null
+                  1BB5EB0A905F: null
+                  BE29D52DD1EE: null
+                BE:
+                  0CDB4A002AAD: null
+                  56916D5D1226: null
+                  D9635A03FF7B: null
+                BF:
+                  37DE2B62DCC5: null
+                  9354DCC236F0: null
+                C0:
+                  E2E1CF5A1D53: null
+                C1:
+                  41708660D898: null
+                  5B3D11F92104: null
+                C2:
+                  48F26F43FFFF: null
+                  698D9DC495A8: null
+                  C93FF0379316: null
+                  D1BCB4B1078F: null
+                C3:
+                  A41BD131E9BF: null
+                  F033CD1164F2: null
+                C4:
+                  0A1263F4285A: null
+                  716EF5C1A469: null
+                C6:
+                  58E20BEB8D4B: null
+                  73F4121C4F80: null
+                C7:
+                  5F2EB78D5CDB: null
+                C8:
+                  3D6D4BE99E28: null
+                  B6B10C0EFD3B: null
+                  E1F93801EFF3: null
+                CA:
+                  8FD57EB069C2: null
+                  CB7800EE4F35: null
+                CB:
+                  D0ACD33B74C9: null
+                CC:
+                  2EB4DD38055C: null
+                  363684A63CFC: null
+                CD:
+                  91D1EEB0851D: null
+                CE:
+                  0EEAE985E2FA: null
+                  56A961AB65AC: null
+                  69666D1D9421: null
+                CF:
+                  23C69542AD1B: null
+                  FC33467F2E2F: null
+                D0:
+                  2DBFC64FE434: null
+                  3F5AAE1CC988: null
+                  650232923A0B: null
+                  AE78884E727D: null
+                D1:
+                  04E61460E645: null
+                  B3F07EFBA948: null
+                D2:
+                  C4FB199B23F2: null
+                  DBA4B8CB485B: null
+                D4:
+                  9271E60DF527: null
+                D5:
+                  9D4AC320AB24: null
+                D6:
+                  4A86C812F108: null
+                  70A5836D9947: null
+                D8:
+                  18F0EB9EBF8E: null
+                D9:
+                  44A1E19887C1: null
+                  8225ED8A335A: null
+                  BF4090DA2EC5: null
+                DB:
+                  709059E73714: null
+                DC:
+                  436839A54D1B: null
+                  560FBE730DC2: null
+                  793E7F42E8B8: null
+                DE:
+                  833C931E4DE7: null
+                  DBF3E2154DD8: null
+                DF:
+                  064489916A08: null
+                  0C59A23B7430: null
+                  22BAE513238B: null
+                  DE4AEC35FBA0: null
+                E0:
+                  3A08A0E65306: null
+                  E526878EF57D: null
+                E1:
+                  12310594B718: null
+                  9FCE8EB8F619: null
+                E2:
+                  04E88FCB5381: null
+                  9353BDED828F: null
+                  C6554A190C02: null
+                E3:
+                  3081659E4CA7: null
+                E4:
+                  9DF49E36AC3F: null
+                  C372F2600AD2: null
+                  DE9651FE93A1: null
+                E5:
+                  4F8331007FDE: null
+                  CEAFC7587749: null
+                E6:
+                  D4DE0FDE4BF8: null
+                  FEB1560DF4E3: null
+                E7:
+                  07776F1D89EE: null
+                  3A49CBF2F46F: null
+                  79D34990D784: null
+                E8:
+                  88CD7F95FAAD: null
+                  93E67306283E: null
+                E9:
+                  08781CB7CDB5: null
+                  6C16D471EB2A: null
+                  CAFBE02A79AB: null
+                EA:
+                  3FF4B0487C7A: null
+                  859C56165B71: null
+                  8A6368ADCC5B: null
+                  D7D6E6AB69C3: null
+                EB:
+                  BB20E036AC27: null
+                  DB0C2A5EE93F: null
+                EC:
+                  0BCA5E6F198C: null
+                  3334EB6ADD0D: null
+                EE:
+                  216113AE481A: null
+                EF:
+                  41A853005AE0: null
+                  DDCE1A43116C: null
+                  FAB3698579C0: null
+                F0:
+                  1567C8C8FCA7: null
+                  BCDB4CFFCD64: null
+                F1:
+                  136EBBAEB42E: null
+                  530969E866E4: null
+                  5B8BA88D3B7A: null
+                  D7061696683F: null
+                F2:
+                  8952F9A90C83: null
+                F3:
+                  BD86E6894756: null
+                  D8BEDFF70ACA: null
+                  DC9EC6620521: null
+                  FB2D848DDE00: null
+                F4:
+                  46B15A32D4C9: null
+                  5FF2FE29C91F: null
+                  7D27D3B09B44: null
+                F5:
+                  24331EAC2CE1: null
+                F6:
+                  0189E8BEF054: null
+                  65C36DF80FCF: null
+                  AC267B0E88A3: null
+                F7:
+                  06461A564E9D: null
+                  A35D13375F91: null
+                F8:
+                  AD8800CF66E1: null
+                  AFB8210FE3BF: null
+                F9:
+                  2D98339052D1: null
+                  C99C8200C7AC: null
+                  E250AA75D292: null
+                FA:
+                  13BF374B563E: null
+                  9DB7FE8A9C8D: null
+                FB:
+                  3DDAD68E73C9: null
+                  5B8DD286D8CC: null
+                FC:
+                  3FD0D1002392: null
+                  5397848130BF: null
+                  987EECB613D5: null
+                FD:
+                  2623D86078B6: null
+                  6C5E62910C2A: null
+                  BCF83151396A: null
+                FE:
+                  33B16D304A6D: null
+                FF:
+                  AFCECF19F4C6: null
+            media_cache:
+              '0':
+                '00':
+                  61DDA3BC64DB: null
+                '03':
+                  EB3C070C88D1: null
+                '04':
+                  23E4CA04B174: null
+                0D:
+                  F07BE3A8EC68: null
+                '12':
+                  C6E446652E37: null
+                '13':
+                  C96E72EAEFCA: null
+                '29':
+                  CCAD7EC350DB: null
+                2D:
+                  47AD566F4EB1: null
+                  54D8F5587C1D: null
+                2E:
+                  03B17B67291F: null
+                '39':
+                  1BD5C4F52857: null
+                '42':
+                  170025968E63: null
+                4A:
+                  169A84022797: null
+                4D:
+                  0B9CA5A9F0B8: null
+                '54':
+                  D9D05AA5BD5D: null
+                '57':
+                  55773D3774F3: null
+                  7974D629BD94: null
+                '60':
+                  AFEB2BCE01A7: null
+                6D:
+                  64BD37974EEB: null
+                6E:
+                  DBB3673CB3FC: null
+                '82':
+                  A5FC221D1258: null
+                8C:
+                  B069D9FF9428: null
+                C0:
+                  91F08ABE6EBF: null
+                C6:
+                  E9C14B22640C: null
+                CD:
+                  487BE1CBFCBC: null
+                D9:
+                  69609BE35A5C: null
+                DA:
+                  AF98BEF4C3E2: null
+                EE:
+                  28B29626F3F0: null
+                F1:
+                  9A20F3E82B4B: null
+                F3:
+                  396454535FD7: null
+                F8:
+                  375889A24D8B: null
+                FE:
+                  1AADA6502D6A: null
+  OFFICE: {}
+  PROGRAMMING: {}
+  SCIENCE: {}
+  SOUND_AND_VIDEO: {}
+  SYSTEM_TOOLS: {}
+  UTILITIES: {}
+System Volume Information: {}
+ZIPS:
+  APP_DATA:
+    ACCESSORIES: {}
+    EDUCATION: {}
+    GAMES: {}
+    GRAPHICS: {}
+    INTERNET: {}
+    OFFICE: {}
+    PROGRAMMING: {}
+    SCIENCE: {}
+    SOUND_VIDEO: {}
+    SYSTEM_TOOLS: {}
+    UTILITIES:
+      CALIBRE: {}
+  MASTERS:
+    AUDIO: {}
+    BOOK: {}
+    SOFTWARE: {}
+    VIDEO: {}
+  PRODUCTS:
+    AUDIO: {}
+    BOOK:
+      Logos: {}
+    VIDEO: {}
+  SOFTWARE:
+    ACCESSORIES: {}
+    EDUCATION:
+      Android: {}
+      Windows_x64: {}
+    GAMES: {}
+    GRAPHICS: {}
+    INTERNET:
+      Android: {}
+    OFFICE:
+      Android: {}
+    PROGRAMMING: {}
+    SCIENCE: {}
+    SOUND_VIDEO:
+      Android: {}
+    SYSTEM_TOOLS: {}
+    UTILITIES: {}
