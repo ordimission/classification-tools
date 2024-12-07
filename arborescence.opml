@@ -1,0 +1,162 @@
+<?xml version="1.0" ?>
+<opml version="2.0">
+  <head>
+    <title>Fichier OPML de l'arborescence des fichiers</title>
+  </head>
+  <body>
+    <outline text="$RECYCLE.BIN" type="folder">
+      <outline text="S-1-12-1-1908968637-1152888789-3542856331-2717087518" type="folder"/>
+    </outline>
+    <outline text="APP_DATA" type="folder">
+      <outline text="ACCESSORIES" type="folder"/>
+      <outline text="EDUCATION" type="folder"/>
+      <outline text="GAMES" type="folder"/>
+      <outline text="GRAPHICS" type="folder"/>
+      <outline text="INTERNET" type="folder"/>
+      <outline text="OFFICE" type="folder"/>
+      <outline text="PROGRAMMING" type="folder"/>
+      <outline text="SCIENCE" type="folder"/>
+      <outline text="SOUND_VIDEO" type="folder"/>
+      <outline text="SYSTEM_TOOLS" type="folder"/>
+      <outline text="UTILITIES" type="folder">
+        <outline text="CALIBRE" type="folder"/>
+      </outline>
+    </outline>
+    <outline text="DOCUMENTS" type="folder">
+      <outline text="ASSOCIATIONS" type="folder">
+        <outline text="ACCEP" type="folder"/>
+        <outline text="AEE" type="folder"/>
+        <outline text="AIG" type="folder"/>
+        <outline text="AVF" type="folder"/>
+        <outline text="BSD" type="folder"/>
+        <outline text="CFBS" type="folder"/>
+        <outline text="EPEMN" type="folder"/>
+        <outline text="FLC" type="folder"/>
+        <outline text="ORDIMISSION" type="folder"/>
+        <outline text="VP" type="folder"/>
+      </outline>
+      <outline text="FAMILY" type="folder"/>
+      <outline text="PERSONAL" type="folder"/>
+      <outline text="PROFESSIONAL" type="folder"/>
+    </outline>
+    <outline text="MASTERS" type="folder">
+      <outline text="AUDIO" type="folder">
+        <outline text="AEE" type="folder"/>
+        <outline text="AVF" type="folder"/>
+      </outline>
+      <outline text="BOOK" type="folder"/>
+      <outline text="SOFTWARE" type="folder">
+        <outline text="ASSOCIATIONS" type="folder">
+          <outline text="AVF" type="folder"/>
+          <outline text="ORDIMISSION" type="folder"/>
+          <outline text="VP" type="folder"/>
+        </outline>
+        <outline text="PERSONAL" type="folder"/>
+        <outline text="PROFESSIONAL" type="folder"/>
+      </outline>
+      <outline text="VIDEO" type="folder"/>
+    </outline>
+    <outline text="PRODUCTS" type="folder">
+      <outline text="AUDIO" type="folder">
+        <outline text="AEE" type="folder"/>
+        <outline text="AOW" type="folder">
+          <outline text="SFC" type="folder">
+            <outline text="ARABIC" type="folder"/>
+            <outline text="BENGALI" type="folder"/>
+            <outline text="CHINESE" type="folder"/>
+            <outline text="ENGLISH" type="folder"/>
+          </outline>
+        </outline>
+        <outline text="AVF" type="folder"/>
+        <outline text="GRN" type="folder"/>
+        <outline text="THIRDMILL" type="folder"/>
+      </outline>
+      <outline text="BOOK" type="folder">
+        <outline text="S5" type="folder"/>
+        <outline text="THIRDMILL" type="folder">
+          <outline text="FR" type="folder"/>
+        </outline>
+      </outline>
+      <outline text="SOFTWARE" type="folder">
+        <outline text="ACCESSORIES" type="folder"/>
+        <outline text="EDUCATION" type="folder"/>
+        <outline text="GAMES" type="folder"/>
+        <outline text="GRAPHICS" type="folder"/>
+        <outline text="INTERNET" type="folder"/>
+        <outline text="OFFICE" type="folder"/>
+        <outline text="PROGRAMMING" type="folder"/>
+        <outline text="SCIENCE" type="folder"/>
+        <outline text="SOUND_VIDEO" type="folder"/>
+        <outline text="SYSTEM_TOOLS" type="folder"/>
+        <outline text="UTILITIES" type="folder"/>
+      </outline>
+      <outline text="VIDEO" type="folder">
+        <outline text="AEE" type="folder"/>
+        <outline text="AOW" type="folder">
+          <outline text="SFC" type="folder"/>
+        </outline>
+        <outline text="AVF" type="folder">
+          <outline text="CAMEROUN32" type="folder"/>
+        </outline>
+        <outline text="GRN" type="folder"/>
+        <outline text="THIRDMILL" type="folder">
+          <outline text="FR" type="folder"/>
+        </outline>
+      </outline>
+    </outline>
+    <outline text="SOFTWARE" type="folder">
+      <outline text="ACCESSORIES" type="folder"/>
+      <outline text="EDUCATION" type="folder"/>
+      <outline text="GAMES" type="folder"/>
+      <outline text="GRAPHICS" type="folder"/>
+      <outline text="INTERNET" type="folder"/>
+      <outline text="OFFICE" type="folder"/>
+      <outline text="PROGRAMMING" type="folder"/>
+      <outline text="SCIENCE" type="folder"/>
+      <outline text="SOUND_AND_VIDEO" type="folder"/>
+      <outline text="SYSTEM_TOOLS" type="folder"/>
+      <outline text="UTILITIES" type="folder"/>
+    </outline>
+    <outline text="ZIPS" type="folder">
+      <outline text="APP_DATA" type="folder">
+        <outline text="ACCESSORIES" type="folder"/>
+        <outline text="EDUCATION" type="folder"/>
+        <outline text="GAMES" type="folder"/>
+        <outline text="GRAPHICS" type="folder"/>
+        <outline text="INTERNET" type="folder"/>
+        <outline text="OFFICE" type="folder"/>
+        <outline text="PROGRAMMING" type="folder"/>
+        <outline text="SCIENCE" type="folder"/>
+        <outline text="SOUND_VIDEO" type="folder"/>
+        <outline text="SYSTEM_TOOLS" type="folder"/>
+        <outline text="UTILITIES" type="folder">
+          <outline text="CALIBRE" type="folder"/>
+        </outline>
+      </outline>
+      <outline text="MASTERS" type="folder">
+        <outline text="AUDIO" type="folder"/>
+        <outline text="BOOK" type="folder"/>
+        <outline text="SOFTWARE" type="folder"/>
+        <outline text="VIDEO" type="folder"/>
+      </outline>
+      <outline text="PRODUCTS" type="folder">
+        <outline text="AUDIO" type="folder"/>
+        <outline text="BOOK" type="folder"/>
+        <outline text="VIDEO" type="folder"/>
+      </outline>
+      <outline text="SOFTWARE" type="folder">
+        <outline text="ACCESSORIES" type="folder"/>
+        <outline text="EDUCATION" type="folder"/>
+        <outline text="GAMES" type="folder"/>
+        <outline text="GRAPHICS" type="folder"/>
+        <outline text="INTERNET" type="folder"/>
+        <outline text="OFFICE" type="folder"/>
+        <outline text="PROGRAMMING" type="folder"/>
+        <outline text="SCIENCE" type="folder"/>
+        <outline text="SOUND_VIDEO" type="folder"/>
+        <outline text="SYSTEM_TOOLS" type="folder"/>
+        <outline text="UTILITIES" type="folder"/>
+      </outline>
+    </outline>
+  </body>
+</opml>
